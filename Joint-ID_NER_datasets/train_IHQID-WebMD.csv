@@ -1,0 +1,721 @@
+sents,NER_tag,intent
+what is nystatin prescribed for?,O O B-drug O O,drug
+can douching after sex stop me from getting pregnant?,O O O O O O O O B-disease,other
+does percocet cause weight gain,O B-drug O B-disease I-disease,drug
+does 2 or 2 1/2 glasses of wine a day caues high blood pressure?,O O O O O O O O O O O B-disease I-disease I-disease,disease
+can too much buttermilk cause thrush?,O O O O O B-disease,disease
+is it safe to take emergen-c while pregnant?,O O O O O B-drug O O,drug
+how can i protect my skin from dryness this winter?,O O O O O O O B-disease O O,treatment
+is there a cream that can fix wrinkles on your penis head glans when flaccid?,O O O O O O O B-disease O O O O O O B-disease,disease
+can yeast infection cause back pain in lower right?,O B-disease I-disease O B-disease I-disease O O O,disease
+is it wrong to take antibiotics for colds?,O O O O O B-drug O B-disease,drug
+is tendonitis the same as a pulled tendon,O B-disease O O O O B-disease I-disease,disease
+could taking valium result in a false positive on a pregnency test?,O O B-drug O O O O O O O B-treatment I-treatment,drug
+can coconut oil cure jock itch or is there something better to cure it?,O B-drug I-drug O B-disease I-disease O O O O O O O O,treatment
+can i have sex with a pregnant woman while taking valasiclovir?,O O O O O O O O O O B-drug,other
+will a blood transfusion get rid of herpes,O O B-treatment I-treatment O O O B-disease,treatment
+do testosterone injections cause weight gain,O B-drug I-drug O B-disease I-disease,drug
+brownish vaginal discharge every two weeks in my 12 year old. is this normal?,B-disease I-disease I-disease O O O O O O O O O O O,disease
+scoliosis. does it effect the stomach and breathing.,B-disease O O O O O O O,disease
+what is an acne scar?,O O O B-disease I-disease,disease
+is foliculitis a form of herpes type 1,O B-disease O O O B-disease I-disease I-disease,disease
+can you get pregnant if you take adderall?,O O O O O O O B-drug,drug
+i have some hip pain 9 weeks. had mra image recently would welcome second opinion?,O O O B-disease I-disease O O O B-treatment I-treatment O O O O O,treatment
+what pericarditis the relationship between periodontitpericarditis and hiv?,O B-disease O O O O O B-disease,disease
+how can you turn off histamine with natural remedy,O O O O O B-drug O O O,disease
+37 year old had tubal done 11 years ago having tender breasts and milky discharge?,O O O O B-treatment O O O O O B-disease I-disease O B-disease I-disease,disease
+is creon fda approved and covered by most insurance?,O B-drug O O O O O O O,drug
+can sharing a hair brush or comb transfer eczema from one person to another?,O O O O O O O O B-disease O O O O O,disease
+is cirrhosis contagious,O B-disease O,disease
+is the risk for heart disease reduced by lowering cholesterol?,O O O O B-disease I-disease O O O B-disease,other
+what happens if all of the sac from a sebaceous cyst is not removed?,O O O O O O O O O B-disease I-disease O O O,disease
+who can get pink eye?,O O O B-disease I-disease,disease
+can ebola virus be transmitted by sexual intercrouse,O B-disease I-disease O O O O O,disease
+is herpes part of hand foot and mouth disease?,O B-disease O O B-disease I-disease I-disease I-disease I-disease,disease
+can you detrimine the ethnic race of a child through a ultrasound,O O O O O O O O O O O B-treatment,other
+what do you think about the effectiveness of laser treatment for wrinkle removal?,O O O O O O O O B-treatment I-treatment O B-disease I-disease,treatment
+does having white blood cells in stool stool sample mean cancer?,O O B-disease I-disease I-disease I-disease I-disease I-treatment I-treatment O B-disease,disease
+i think my father might need a pacemaker?,O O O O O O O B-treatment,treatment
+does chewing tobacco destory vitamin c,O O O O B-drug I-drug,disease
+what is antimatic,O O B-drug,drug
+what is mch in blood tests,O O B-treatment O B-treatment I-treatment,treatment
+can someone prevent typhoid fever?,O O O B-disease I-disease,disease
+is it ok to mix metamusil with yogurt instead of liquid?,O O O O O B-drug O O O O O,drug
+does oxycontin contain sulfa?,O B-drug O B-drug,drug
+should you avoid alcohol after having acute pancreatitis?,O O O O O O B-disease I-disease,disease
+what fruit juice acts as a laxative?,O O O O O O B-drug,other
+what can a pregnant woman take for a cold?,O O O O O O O O B-disease,drug
+is it safe to take one 325mg tylenol 2 hours after a glass of wine?,O O O O O O O B-drug O O O O O O O,drug
+can blu light prevent future skin cancers,O O O O O B-disease I-disease,disease
+is expired birth control still effective?,O O B-treatment I-treatment O O,other
+what are some examples of aerobic exercise?,O O O O O B-treatment I-treatment,other
+can a dog get pink eye from a human?,O O O O B-disease I-disease O O O,disease
+could my previous method of birth control affect my fertility?,O O O O O B-drug I-drug O O O,other
+can i take ibuprofen and viagra at the same time?,O O O B-drug O B-drug O O O O,drug
+when is my due date for my menstrual cycle,O O O O O O O B-disease I-disease,other
+does monistate contain aspirin or ibuprofen?,O B-drug O B-drug O B-drug,drug
+can ear plugs cause ear infections?,O O O O B-disease I-disease,disease
+is vaginal bleeding for two months straight normal?,O B-disease I-disease O O O O O,disease
+is mupirocin used for poison ivy,O B-drug O O B-disease I-disease,drug
+does hpv genital warts appear on the testicles?,O B-disease O O O O O O,disease
+is microwave popcorn safe to eat while takiing cipro,O O O O O O O O B-drug,drug
+is sebhorric dermatitis contagious?,O B-disease I-disease O,disease
+what is coreg cr taken for?,O O B-drug I-drug O O,drug
+where is west nile more likely to occure?,O O B-disease I-disease O O O O,disease
+is hair loss in women different than men?,O B-disease I-disease O O O O O,other
+can you get a uti from fecal matter (diarrhea) accidently entering the urethra?,O O O O B-disease O O O O B-disease O O O,disease
+what would a single dose of 4 azithromycin pills be used to treat?,O O O O O O O B-drug O O O O O,drug
+i prilosec 20 mgs (otc) and have taken this daily for over 10 yrs straight?,O B-drug I-drug I-drug I-drug O O O O O O O O O O,drug
+is clindamycin effective in treating syphilis?,O B-drug O O O B-disease,drug
+can excessive masturbation cause nervousness,O O O O B-disease,disease
+can prenatal vitamins mess up my menstral cycle?,O O B-drug O O O O O,disease
+can you get pregnant after gastric bypass surgery?,O O O O O B-treatment I-treatment I-treatment,other
+what happens if i had an air bubble in insulin i injected?,O O O O O O O O O B-drug O O,other
+can i get the flu shot if i am allergic to penicillin?,O O O O B-drug I-drug O O O B-disease O B-drug,drug
+can valtrax be used to treat lichen sclerosus,O B-drug O O O O B-disease I-disease,drug
+what is hcg (human chorionic gonadotropin) for infertility?,O O B-drug O B-drug I-drug I-drug I-disease,disease
+can acupuncture relieve eye pain?,O B-treatment O B-disease I-disease,treatment
+can i drink milk or orange juice with sinusitis?,O O O O O O O O B-disease,other
+does peppermint oil help with bad breath,O O O O O B-disease I-disease,other
+is there any way to speed up a cold once you feel one coming on?,O O O O O O O O B-disease O O O O O O,disease
+can hot flashes cause laryngitis,O O O O B-disease,disease
+what is an apexification procedure?,O O O B-treatment I-treatment,treatment
+can i drink beer with a major large tongue laceration bit through it.,O O O O O O O B-disease I-disease I-disease O O O,disease
+what causes acne vulgaris?,O O B-disease I-disease,disease
+what is a dry powder inhaler?,O O O B-drug I-drug I-drug,drug
+does soaking in epsom salts help to draw out excess lactic acid from muscles?,O O O B-drug I-drug O O O O B-disease I-disease I-disease O O,other
+what is the official website for obamacare,O O O O O O B-treatment,other
+does niacin affect the bodys ability to produce insulin,O B-drug O O O O O O B-drug,drug
+is it safe to take coricidin while on z pack medication?,O O O O O B-drug O O B-drug I-drug O,drug
+does medicare or tricare help cover walk in bathtubs for handicap people?,O O O O O O O O O O B-disease I-disease,other
+does getting flu shots over the years might end up giving you alzheimer's disease?,O O B-drug I-drug O O O O O O O O B-disease I-disease,disease
+does symptoms of kidney stones mimic gential herpes in a man?,O O O B-disease I-disease O B-disease I-disease O O O,disease
+can iron supplements cause damage to teeth and discolor dentures?,O B-drug I-drug O B-disease I-disease I-disease O B-disease O,drug
+is having a blood pressure at 133 over 82 bad?,O O O B-disease I-disease O O O O O,disease
+will eating poppy seed bagels cause me to fail a pre-employment drug-test test?,O O O O O O O O O O O B-treatment O,other
+any problems with accidentally taking the flu shot twice at age 69?,O O O O O O B-drug I-drug O O O O,drug
+what is erythematous mucosa?,O O B-disease I-disease,disease
+is it possible to get pregnant 7 days after your menstruation?,O O O O O B-disease O O O O B-disease,other
+why can't i taste food when i have a cold,O O O O O O O O O B-disease,disease
+can lisinopril affect home pregnency test results?,O B-drug O B-treatment I-treatment I-treatment O,drug
+who is most affected most by the common cold,O O O O O O O B-disease I-disease,disease
+does the caffeine in coffee cause facial wrinkles?,O O B-drug O O O B-disease I-disease,disease
+can rotateq be given with other vaccines?,O B-drug O O O O O,drug
+what specialist treats rhinitis?,O O O B-disease,disease
+"i cut my finger and may have been exposed to hiv, should i be tested?",O B-disease I-disease I-disease O O O O O O B-disease O O O O,treatment
+why can't valtrex be given to patients with mononucleosis to reduce symptoms?,O O B-drug O O O O O B-disease O O O,drug
+can i use famvir for ear infections?,O O O B-drug O B-disease I-disease,drug
+can saline solution be used in nostrils while there is greenish discharge?,O B-drug I-drug O O O O O O O B-disease I-disease,other
+does sauerkraut cause gas?,O B-drug O B-disease,drug
+can the overuse of acetaminophen cause knee pain?,O O O O B-drug O B-disease I-disease,drug
+can a child get congestion from taking benadryl if they arent sick,O O O O B-disease O O B-drug O O O O,drug
+my daughter has crohn's disease. can she take ibuprofen?,O O O B-disease I-disease O O O B-drug,disease
+can you naproxen 500 mg with antihistamine,O O B-drug I-drug I-drug O B-drug,drug
+what illnesses often co-exist with bipolar disorder?,O O O O O B-disease I-disease,disease
+is naproxen sodium the same as aspirin?,O B-drug I-drug O O O B-drug,drug
+during second pregnancies how long before labor starts once you loss your plug?,O B-disease I-disease O O O B-disease I-disease O O B-disease I-disease I-disease,disease
+can allergy shots cause hemorrhoids?,O B-drug I-drug O B-disease,drug
+what happens if a stye pops in your eye,O O O O B-disease O O O O,disease
+what are the exams done by a doctor to detect amblyopia?,O O O O O O O O O O B-disease,treatment
+is lisinopril a beta blocker?,O B-drug O B-drug I-drug,drug
+can apple cider vinegar help constipation,O B-drug I-drug I-drug O B-disease,treatment
+can melatonin cause weight gain?,O B-drug O B-disease I-disease,drug
+what purpose does glycerin serve in toothpaste?,O O O B-drug O O B-drug,drug
+can a woman get pregnant using the withdrawal method of birth control?,O O O O B-disease O O B-treatment I-treatment I-treatment I-treatment I-treatment,other
+can i take tylenol pm with tamiflu,O O O B-drug I-drug O B-drug,drug
+can you use vicodin to help ease alcohol withdrawl,O O O B-drug O O O B-disease I-disease,drug
+can birth control lead to infertility?,O B-drug I-drug O O B-disease,disease
+can 2 people be allergic to fabric softner at the same time?,O O O O B-disease O O O O O O O,disease
+surgeon said he had to take cartilage out from jaw jaw?,O O O O O O B-treatment I-treatment I-treatment I-treatment O,treatment
+how do you cure bacterial stds?,O O O O B-disease I-disease,disease
+what are the ingredients of boniva injection?,O O O O O B-drug I-drug,drug
+what is the source of bronchitis,O O O O O B-disease,disease
+can humans get hiv from dogs or cats?,O O O B-disease O O O O,other
+is there something otc for low testosterone?,O O O O O B-disease I-disease,disease
+is kidney dialysis covered by medicare?,O O B-treatment O O O,other
+does adderall cause acne?,O B-drug O B-disease,drug
+i used ultra chloraseptic spray on my 7 year old daughter?,O O B-drug I-drug I-drug O O O O O O,drug
+what kind of doctor should an alzheimers patient see?,O O O O O O B-disease O O,treatment
+i am currently 64. do i have to sign up for obamacare?,O O O O O O O O O O O B-treatment,other
+if i have already had the flu this season should i get a flu shot?,O O O O O O B-disease O O O O O O B-drug I-drug,other
+can a person who has a stye go swimming in a pool,O O O O O O B-disease O O O O O,disease
+will alprazolam show up in your urine 30 min after orally taking a xanax,O B-drug O O O O O O O O O O O B-drug,drug
+can i go out in the sun while taking 875 mg dose of amoxicillin?,O O O O O O O O O B-drug I-drug I-drug I-drug I-drug,drug
+how many days a week should i exercise?,O O O O O O O B-treatment,other
+can vulvar cancer lead to breast cancer?,O B-disease I-disease O O B-disease I-disease,disease
+what can cause erectile dysfunction?,O O O B-disease I-disease,disease
+should i avoid drinking alcohol before a tooth extraction?,O O O O O O O B-treatment I-treatment,other
+can using a vibrator cause urethritis.,O O O O O B-disease,disease
+can carbonated beverages hinder weight loss?,O O O O B-disease I-disease,other
+does vitamin b injections raise blood pressure?,O B-drug I-drug I-drug I-disease I-disease I-disease,other
+can wellbutrin cause me to fail a drug test?,O B-drug O O O O O B-treatment I-treatment,drug
+can using shea butter help to lighten acne marks on face face?,O O B-treatment I-treatment O O O B-disease I-disease I-disease I-disease O,treatment
+can a 23 year old female take centrum silver women?,O O O O O O O B-drug I-drug I-drug,drug
+when is it safe to get flu shot after having mononucleosis?,O O O O O O B-drug I-drug O O B-disease,disease
+what is the common cold?,O O O B-disease I-disease,disease
+what tests should i consider having for high blood pressure and rapid heart rate?,O O O O O O O B-disease I-disease I-disease O B-disease I-disease I-disease,treatment
+does lung cancer metastasis to the brain?,O B-disease I-disease I-disease O O O,disease
+i had a flu shot in october is it good for the whole flu season.,O O O B-drug I-drug O O O O O O O O O O,drug
+blood tests done for rheumatoid arthritis positive or normal?,B-treatment I-treatment O O B-disease I-disease O O O,treatment
+do i need to fast for psa blood test?,O O O O O O B-treatment I-treatment I-treatment,treatment
+can you take ranitidine with amoxicillin,O O O B-drug O B-drug,drug
+what is a proctocolectomy related to colorectal cancer?,O O O B-treatment O O B-disease I-disease,treatment
+is spinal meningitis contagious,O B-disease I-disease O,disease
+can scabies cause heart problems? could scabies also cause lung problems,O B-disease O O O O O O O O O,disease
+what is the difference between carcinoma and melanoma,O O O O O B-disease O B-disease,disease
+can i swim in a pool with hemorrhoids?,O O O O O O O B-disease,disease
+how can constipation affect your body weight?,O O B-disease O O O O,disease
+what class is the drug zoloft in?,O O O O O B-drug O,drug
+will bactrim cure strep throat?,O B-drug O B-disease I-disease,treatment
+can eating chia seeds and flaxseed in the same meal dehydrate you?,O O B-drug I-drug O B-drug O O O O B-disease O,drug
+can miralax be used the day after a prostate biopsy,O B-drug O O O O O O B-treatment I-treatment,drug
+is a tumor the same as a cyst?,O O B-disease O O O O B-disease,disease
+does foot detox have a medical benefit,O B-treatment I-treatment O O O O,treatment
+can you get lyme disease from bone graphting,O O O B-disease I-disease O B-treatment I-treatment,treatment
+does drinking water at night cause weight gain,O O O O O O B-disease I-disease,disease
+is there a link between a latex allergy and hard shell capsules?,O O O O O O B-disease I-disease O B-drug I-drug I-drug,disease
+will diphenhydramine hci cause a positive result on a drug test,O B-drug I-drug O O O O O O B-treatment I-treatment,drug
+what is radiation therapy?,O O B-treatment I-treatment,treatment
+is albuterol a steroid?,O B-drug O B-drug,drug
+can teenagers (14 years old) take adult multivitamins?,O O O O O O O B-drug,drug
+is dental extraction dangerous for a fifty year old,O B-treatment I-treatment O O O O O O,treatment
+is a sugar level above 400 dangerous?,O O B-treatment I-treatment O O O,disease
+what moisturizer can be used when you use retin-a?,O O O O O O O O B-drug,drug
+can too much fiber cause constipation?,O O O O O B-disease,disease
+is my anti hiv test conclusive or need retest?,O O B-treatment I-treatment I-treatment O O O O,treatment
+if i had unprotected sex 4 days before my period would i get pregnant?,O O O O O O O O O B-disease O O O B-disease,other
+does keflex reduce milk supply during breastfeeding,O B-drug O O O O O,drug
+will prednisone help with a staph infection,O B-drug O O O B-disease I-disease,drug
+what medicine is recommended to treat kids with fever related to reye syndrome?,O O O O O O O O B-disease O O B-disease I-disease,treatment
+does xylocaine jelly totally numb uretha and penis head?,O B-drug I-drug O B-disease I-disease I-disease I-disease I-disease,drug
+can i get a flu shot if i'm allergic to rocephin?,O O O O B-drug I-drug O O B-disease O B-drug,drug
+very low blood pressure 80/50 i am on medicine please advise?,O B-disease I-disease I-disease O O O O O O O,treatment
+can you be allergic to mold in your food?,O O O B-disease O O O O O,other
+can you get a cold sore from a yeast infection during oral sex,O O O O B-disease I-disease O O B-disease I-disease O O O,disease
+what type of arthritis is most common in people who have ulcerative colitis?,O O O B-disease O O O O O O O B-disease I-disease,disease
+is there a generic drug for erectile dysfunction?,O O O O O O B-disease I-disease,disease
+what is the best color for full porcelain dentures?,O O O O O O O B-treatment I-treatment,other
+can disc issues at c-3 and c-4 cause lower back and right shoulder pain?,O O O O O O O O B-disease I-disease I-disease I-disease I-disease I-disease,disease
+how long does colic last?,O O O B-disease O,disease
+is it ok to eat pepperoni while pregnant?,O O O O O O O B-disease,other
+can i breast feed f i had breast implants done through my nipple,O O O O O O O B-treatment I-treatment O O O O,other
+is it better to apply heat or cold to sore muscles after stenuous exercise?,O O O O B-treatment I-treatment I-treatment I-treatment O B-disease I-disease O O B-treatment,treatment
+can insulin cause uti?,O B-drug O B-disease,disease
+is it possible to have ammonia and flu at same time,O O O O O B-disease O B-disease O O O,other
+does albuterol sulphate have steroids in it,O B-drug I-drug O B-drug O O,drug
+pregnency what is the full meaning of pvc?,B-disease O O O O O O B-disease,other
+can stomach acid or gas come out of the belly button,O B-disease I-disease O O O O O O O O,other
+can hand foot and mouth disease cause diarrhea?,O B-disease I-disease I-disease I-disease I-disease O B-disease,disease
+can cataracts be removed when patient has wet macular degenteration?,O B-disease O O O O O B-disease I-disease I-disease,disease
+does prednisone keep you awake,O B-drug O O O,drug
+does yogurt lessen side effects of macrobid?,O B-drug O O O O B-drug,drug
+can amoxicillin turn a tongue black?,O B-drug O O B-disease I-disease,drug
+can a 4 year old and 18 month old have mood swings getting off antibiotics,O O O O O O O O O O B-disease I-disease O O B-drug,drug
+can calcium citrate help relieve pain from menstrual cramps?,O B-drug I-drug O O O O B-disease I-disease,disease
+what is staphylococcal infections,O O B-disease I-disease,disease
+i stepped on a nail. do i need a tetanus shot?,O O O O O O O O O B-drug I-drug,treatment
+fetal echo cardiography done doctors suggested to abort but we want to continue?,B-treatment I-treatment I-treatment O O O O O O O O O O,treatment
+can a man get a uti if his wife has a kidney infection?,O O O O O B-disease O O O O O B-disease I-disease,disease
+will it hurt me if i refrigerate milk of magnesia,O O O O O O O B-drug I-drug I-drug,other
+do all woman get implantation bleeding,O O O O B-disease I-disease,disease
+does ice cold drinks affect gerds?,O O O O O B-disease,other
+can a pap smear indicate uterine fibroids,O O B-treatment I-treatment O B-disease I-disease,treatment
+can flagyl be used to treat kidney infections,O B-drug O O O O B-disease I-disease,drug
+can a torn ligament contribute to gout,O O B-disease I-disease O O B-disease,disease
+can i drink alcohol while taking valacyclovir?,O O O O O O B-drug,drug
+can i take a claritin d after i have taken excedrin migrane?,O O O O B-drug I-drug O O O O B-drug O,drug
+does crixivan reduce the risk of passing the human immunodeficiency virus (hiv) to others?,O B-drug O O O O O O B-disease I-disease I-disease O B-disease O,drug
+how do you break a fever in a toddler?,O O O O O B-disease O O O,treatment
+what is the difference between staph and impetigo?,O O O O O B-disease O B-disease,disease
+can you take probiotics and fiber supplements concurrently?,O O O B-drug O O B-drug O,drug
+i had a flu shot in october how long is it good for,O O O B-drug I-drug O O O O O O O O,drug
+when treated do thrush symptoms get worse before they get better?,O O O B-disease O O O O O O O,disease
+is yoga good for fibromyalgia and degenerative disc disease,O O O O B-disease O B-disease I-disease I-disease,disease
+can taking a multi vitamin cause a yeast infection?,O O O B-drug I-drug O O B-disease I-disease,drug
+is it possible that one could get pregnant by having uprotected sex after 3 days,O O O O O O O B-disease O O O O O O O,other
+can i get pregnant 5 to 6 days before ovulation?,O O O B-disease O O O O O O,other
+can hypothyroid disease lead to diabetes?,O B-disease I-disease O O B-disease,disease
+can a person with tonsillitis play in snow?,O O O O B-disease O O O,disease
+can i be pregnant while i am on the pill?,O O O B-disease O O O O O O,disease
+red light therapy body help the body produce vitamin d,B-treatment I-treatment I-treatment I-treatment O O O O O O,other
+can a women get pregnant after ovulation and while she is having her period?,O O O O B-disease O O O O O O O O O,other
+are over the counter urinary tract infection treatments effective in curing a urinary tract infection?,O O O O B-disease I-disease I-disease O O O O O O O O,disease
+how does the aca affect u. s. citizens living overseas?,O O O B-disease O O O O O O,disease
+how likely are you to get pregnant with premature ejaculation?,O O O O O O B-disease O B-disease I-disease,other
+does vitamin d help fight mrsa,O B-drug I-drug O O B-disease,disease
+do i fast for a cholesterol test,O O O O O B-treatment I-treatment,treatment
+what are the chances of getting pregnant even if the condom didn't break?,O O O O O O B-disease O O O O O O,other
+2 weeks late. negative pregnancy test but can i still be pregnant?,O O O O O O O O O O O B-disease,other
+my wife kept taking primolut-n even after pregnancy is there a problem?,O O O O B-drug O O B-disease O O O O,drug
+is it safe to drink during pregnancy?,O O O O O O B-disease,disease
+when a pacemaker messes up does it cause someone to be violent and abusive?,O O B-treatment O O O O O O O O B-disease O B-disease,disease
+can you get a yeast infection from taking doxycycline,O O O O B-disease I-disease O O B-drug,drug
+what is acetaminophen elixir? how does the word elixir change the purpose of the medication?,O O B-drug I-drug O O O O O O O O O O O,drug
+does medicare cover cataract surgery,O O O B-treatment I-treatment,treatment
+i accidentally took my hypertension medication licinopril twice today. is that a worry?,O O O O B-disease O B-drug O O O O O O,drug
+what kind of doctor repairs a hernia,O O O O O O B-disease,treatment
+my wife is taking effexor xr 75 mg. is there a lower dosage available?,O O O O B-drug I-drug I-drug I-drug O O O O O O,drug
+would a sprained neck induce a headache,O O B-disease I-disease O O B-disease,disease
+can drinking ginger ale increase in blood pressure,O O O O B-disease I-disease I-disease I-disease,disease
+can low blood pressure cause death? if so how low is safe?,O B-disease I-disease I-disease O O O O O O O O,disease
+will a x-ray show fluid on the knee,O O B-treatment O B-disease I-disease I-disease I-disease,treatment
+is rosacea contagious?,O B-disease O,disease
+can ciprodex otic be used in the eye?,O B-drug I-drug O O O O O,drug
+how long to clean blood test for nicotine,O O O O B-treatment I-treatment O B-drug,treatment
+is it safe to operate a motor vehicle while catheterized?,O O O O O O O O O B-treatment,other
+do you have to wean off of prozac or can you quit cold turkey?,O O O O O O O B-drug O O O O O O,drug
+what happens if an infant is given an adult dosage of flu vaccine?,O O O O O O O O O O O B-drug I-drug,drug
+does cipro cause weight gain?,O B-drug O B-disease I-disease,drug
+can systemic candidiasis cause wart growth,O B-disease I-disease O B-disease I-disease,disease
+can alcohol consumption cause acne?,O O O O B-disease,disease
+what is toxic epidermal necrolysis,O O B-disease I-disease I-disease,disease
+what doctor should i go to to get treatment for cellulitis. what doctor treats cellulitis,O O O O O O O O O O B-disease O O O O,treatment
+will going through an x-ray machine at the airport hurt my medications?,O O O O B-treatment O O O O O O O,treatment
+my husband is taking robaxin. can he take ibuprofen with it for pain?,O O O O B-drug O O O B-drug O O O B-disease,drug
+can a child take azithromycin after taking a teaspoon of amoxicillin,O O O O B-drug O O O O O B-drug,drug
+food remedy for early ejaculation?,O O O B-disease I-disease,other
+does taking cranberry pills dry out boils,O O B-drug I-drug O O B-disease,disease
+does swallowing phlegm prolong bronchitis?,O O O O B-disease,disease
+is it worthwhile to get a minor tummy tuck if i plan to have children?,O O O O O O O B-treatment I-treatment O O O O O O,other
+can a tooth infection cause vertigo,O O B-disease I-disease O B-disease,disease
+can vitamin e help get rid of gentel warts,O B-drug I-drug O O O O B-disease I-disease,disease
+can adults get rheumatic fever from strep throat,O O O B-disease I-disease O B-disease I-disease,disease
+how can i best reduce the chances of scarring?,O O O O O O O O B-disease,disease
+what is the difference between osteo and rheumatoid arthritis?,O O O O O B-disease O B-disease I-disease,disease
+what time of day should vitamin d be given?,O O O O O B-drug I-drug O O,drug
+if bacteria is resistant to levofloxacin could cipro still work?,O O O O O B-drug O B-drug O O,drug
+symptoms of narrowing of disc in c4 & c5 area,O O B-disease I-disease I-disease O O O O O,disease
+do teens always get pregnant after sex?,O O O O B-disease O O,other
+can a teen boy wearing a pacemaker ride rollercoasters?,O O O O O O B-treatment O O,treatment
+can i use naprosyn as muscle relaxant relaxor?,O O O B-drug O B-treatment I-treatment O,drug
+can cpap machine cause pleurisy,O B-treatment I-treatment O B-disease,disease
+is hpv found in all cases of cervical cancer?,O B-disease O O O O O B-disease I-disease,disease
+what are the screening tests for prostate cancer?,O O O B-treatment I-treatment O B-disease I-disease,treatment
+is it ok to take a viagra pill before having a semen analysis?,O O O O O O B-drug I-drug O O O B-treatment I-treatment,drug
+is protein powder good or bad,O B-drug I-drug O O O,drug
+what kind of skin problems can radiation therapy cause?,O O O O O O B-treatment I-treatment O,treatment
+what is a vasoactive injection for erectile dysfunction?,O O O B-drug I-drug O B-disease I-disease,drug
+is multiple myeloma contagious by sharing a drink,O B-disease I-disease O O O O O,disease
+can a girl get cramps before she even begins having periods?,O O O O B-disease O O O O O O,disease
+will medicare cover allergy testing,O O O B-treatment I-treatment,other
+can the use of probiotics cause oral thrush?,O O O O B-drug O B-disease I-disease,drug
+are both pneumococcal vaccines safe?,O O B-drug I-drug O,drug
+is there a generic form of celexa available?,O O O O O O B-drug O,drug
+is sapho (synovitis acne pustulosis hyperostosis and osteitis) syndrome related to other joint conditions?,O B-disease O B-drug I-disease I-disease O B-disease O O O O O O,disease
+what should you do if you inject too much growth hormone using norditropin nordiflex?,O O O O O O O O O O O O B-drug I-drug,drug
+can you take zoloft 50mg if you have sleep apnea?,O O O B-drug I-drug O O O B-disease I-disease,drug
+vyvanse urine test what will it show up as?,B-drug I-treatment I-treatment O O O O O O,drug
+is it normal to experience extreme pain after being treated for genital warts?,O O O O O O O O O O O B-disease I-disease,disease
+can you put neosporin on staples,O O O B-drug O O,drug
+can wine trigger eye floaters,O O O B-disease I-disease,disease
+i had my uterus removed can i still get cervical cancer,O O O B-treatment I-treatment O O O O B-disease I-disease,disease
+what are the symptoms of type 1 diabetes children living with the disease?,O O O O O B-disease I-disease I-disease O O O O O,disease
+is ice cream bad for a cough?,O O O O O O B-disease,disease
+will melatonin cause a positive urine drug test?,O B-drug O O O B-treatment I-treatment I-treatment,drug
+can lisinopril work with ativan without any side effects?,O B-drug O O B-drug O O O O,drug
+can taking certain perscription or otc drugs/supplements cause a loss of penile sensation,O O O O O B-drug I-drug I-drug O O O B-disease I-disease,disease
+why is it risky for a diabetic to get a tattoo?,O O O O O O B-disease O O O O,disease
+is a blood test for chlamydia accurate?,O O B-treatment I-treatment O B-disease O,treatment
+can i get a flu shot while on antibiotics,O O O O B-drug I-drug O O B-drug,drug
+is it ok to take phentermine zyrtec as together?,O O O O O B-drug I-drug O O,drug
+do i need to fast for a cbc blood test?,O O O O O O O B-treatment I-treatment I-treatment,treatment
+does niacin flush your system from thc?,O B-drug O O O O B-drug,drug
+can liver cancer kill you,O B-disease I-disease O O,disease
+are there any health insurance companies that cover provigil for daytime sleepiness?,O O O O O O O O B-drug O B-disease I-disease,other
+what does an iodderma and bromoderma granulomatous reaction look like?,O O O B-disease I-disease I-disease I-disease I-disease O O,disease
+can tamiflu be taken with ibuprofen?,O B-drug O O O B-drug,drug
+does yoga have an effect on type 2 diabetess,O B-treatment O O O O B-disease I-disease I-disease,treatment
+are there any ms of vaccines being linked to multiple sclerosis?,O O O B-disease O B-drug O O O O O,disease
+does weight loss help decrease and heal spur pain?,O B-disease I-disease O O O O B-disease I-disease,disease
+how long does zyrtec-d stay in your system?,O O O B-drug O O O O,drug
+what is metchicillin mechicillin-resistant staphylococcal aureus,O O O B-disease I-disease I-disease,disease
+can your throat hurt from an std,O O O O O O B-disease,disease
+can eating too many cucumbers cause seizures?,O O O O O O B-disease,disease
+can sneezing cause broken blood vessels around eyes,O B-disease O B-disease I-disease I-disease O O,disease
+does taking an antibiotic make mirena ineffective?,O O O B-drug O B-disease O,drug
+are there any problems with taking tylenol and sialis at the same time?,O O O O O O B-drug O B-drug O O O O,drug
+can adenoids effect breathing through the nose,O B-disease O O O O O,disease
+will health insurance through the marketplace cover genetic testing for breast cancer?,O O O O O O O B-treatment I-treatment O B-disease I-disease,other
+do pregnant people ovulate at all?,O B-disease O O O O,other
+genital herpes can it spread from drinking from other people drinking cups,B-disease I-disease O O O O O O O O O O,disease
+what is an occipital nerve block? . what steroid is commonly used in the injection?,O O O B-disease I-disease I-disease O O B-drug O O O O O O,treatment
+can bactrim cause a false positive for benzodiazepham on a drug test,O B-drug O O O O O B-drug O O B-treatment I-treatment,drug
+will radiation therapy cause my hair to fall out?,O B-treatment I-treatment O O O O O O,treatment
+what ingredients should you avoid in your makeup if you have sensitive skin?,O O O O O O O O O O O B-disease I-disease,other
+does hyzar or lisinopril have snake venom in the ingredients?,O B-drug O B-drug O B-disease I-disease O O O,drug
+is rosiolrasiola rasiola type of molluscum?,O O B-disease O O B-disease,disease
+can someone have schizophrenia and be bi-polar as well?,O O O B-disease O O B-disease O O,disease
+does your hair grow thicker while you are pregnant?,O O O O O O O O B-disease,other
+will doxycycline haclatae make me fail a urine test,O B-drug I-drug O O O O B-treatment I-treatment,drug
+what happens if you drink water a few hours before surgery?,O O O O O O O O O O B-treatment,treatment
+what is the differnce between an ovarian cyst and tumor,O O O O O O B-disease I-disease O B-disease,disease
+can you get rotavirus if you have had the immunization,O O O B-disease O O O O O B-drug,disease
+can eczema be a direct result from contact dermatitis caused by machine coolants,O B-disease O O O O O B-disease I-disease O O O O,disease
+i have problems with platelets i need a surgery remove spleen the spleen?,O O B-disease I-disease I-disease O O O B-treatment I-treatment I-treatment O O,treatment
+can depo-medrol treat poison ivy,O B-drug O B-disease I-disease,drug
+does losing weight help your penis grow?,O B-disease I-disease O O O O,other
+what are some tips for getting pregnant faster?,O O O O O O B-disease O,other
+will lamisil tablets clear up eczema,O B-drug I-drug O O B-disease,drug
+does l-lysine help with genital herpes?,O B-drug O O B-disease I-disease,drug
+how soon after eating something sweet does it affect your blood sugar level?,O O O O O O O O O O B-treatment I-treatment O,other
+how can i get rid of dark acne scars?,O O O O O O O B-disease I-disease,disease
+is there any over the counter medication for hives?,O O O O O O O O B-disease,disease
+can you take a stool softner if you have diverticulitis?,O O O O B-drug I-drug O O O B-disease,disease
+can you get thrush from oral sex with someone with jock itch,O O O B-disease O O O O O O B-disease I-disease,disease
+what is a pelvic ultrasound?,O O O B-treatment I-treatment,treatment
+does valtrex diminish the effectiveness of the flu vaccines?,O B-drug O O O O O B-drug I-drug,drug
+im pregnant but i had sex yesterday and he came in me is that bad,O B-disease O O O O O O O O O O O O O,other
+what is trench foot,O O B-disease I-disease,disease
+can a pinched nerve in the neck cause numb fingers?,O O O O O O O O B-disease I-disease,disease
+can laser hair removal treatments on neck hurt vocal chords?,O B-treatment I-treatment I-treatment O O O O O O,treatment
+what part does diet play in seborrheic dermatitis,O O O O O O B-disease I-disease,disease
+can you take dulcolax and levothyroxine,O O O B-drug O B-drug,drug
+how can i manage swelling in my feet and legs during pregnency?,O O O O B-disease O O O O O O B-disease,treatment
+can you get pregnant by giving head,O O O B-disease O O O,other
+can having trichomoniasis cause boils?,O O B-disease O B-disease,disease
+can veggies make a person irritable?,O O O O O B-disease,other
+are children required to get a chickenpox vaccination?,O O O O O O B-drug I-drug,drug
+what is a female condom?,O O O B-drug I-drug,drug
+what is gonadotropin releasing hormone (gn-rh) for infertility?,O O B-drug I-drug I-drug O B-drug I-disease,drug
+having heart valve replacement surgery concerned about risk factors and other treatment options?,O B-treatment I-treatment I-treatment I-treatment O O O O O O O O,treatment
+what is the difference between gastroenteritis and gastritis,O O O O O B-disease O B-disease,disease
+dental care and vision care part of the health insurance provided by the exchanges?,B-treatment I-treatment O O O O O O O O O O O O,other
+what is the difference between hydrocodone-acetaminophen and acetaminophen-cod#3,O O O O O B-drug O B-drug,drug
+could i be pregnant? please help!,O O O B-disease O O,other
+is pregnency possible after 6 years of not being able to conceive,O B-disease O O O O O O O O O O,other
+can using tampons spread herpes inside uterus,O O B-drug O B-disease O O,disease
+should you take an antibiotic for a positive clue cell exam,O O O O B-drug O O O B-treatment I-treatment I-treatment,treatment
+is diabetes hereditary,O B-disease O,disease
+i am 3 1/2 weeks pregnant what should my hcg level be?,O O O O O B-disease O O O B-treatment I-treatment O,other
+can a yeast infection go away on its own?,O O B-disease I-disease O O O O O,disease
+can cocoa butter on skin raise cholesterol,O O O O O O B-disease,disease
+can taking antibiotics for a long period of time cause an elevated a1c result?,O O B-drug O O O O O O O O O B-treatment O,drug
+can buspar cause false positives for marijuana?,O B-drug O O O O O,drug
+i am facing a laparoscopic mastectomy can this surgery be done without taking lapron?,O O O O B-treatment I-treatment O O B-treatment O O O O B-drug,treatment
+can you get dental implants if you grind your teeth?,O O O B-treatment I-treatment O O O O O,treatment
+will surgery put me at risk for pneumonia?,O B-treatment O O O O O B-disease,treatment
+can i take ibuprofen while taking amoxicillin?,O O O B-drug O O B-drug,drug
+what is the procedure to obtain medicare coverage for the shingles vaccines?,O O O O O O O O O O B-drug I-drug,other
+what is the procedure to obtain medicare coverage for the herpes vaccines?,O O O O O O O O O O B-drug I-drug,other
+can long hair cause migraines,O O O O B-disease,disease
+can dry eye be mistaken for glaucoma,O B-disease I-disease O O O B-disease,disease
+can a dermatologist help me with birthmarks?,O O O O O O B-disease,other
+will azithromycin help with urinary tract infection,O B-drug O O B-disease I-disease I-disease,disease
+is there an interaction between soma and adderall xr?,O O O O O B-drug O B-drug I-drug,drug
+what type of lotion can i use to decrease my facial wrinkles?,O O O B-drug O O O O O O O B-disease,drug
+will graves' disease read a false positive on drug test?,O B-disease I-disease O O O O O B-treatment I-treatment,disease
+is it safe to have a small volume enema (2-3 ounces of tap water) daily?,O O O O O O O O B-drug O O O O O O,drug
+can colace cause a vaginal yeast infection,O B-drug O O B-disease I-disease I-disease,drug
+what are the risks or side effects of taking diltizame and the octreotide injections simutaneosly,O O O O O O O O O B-drug O O B-drug O O,drug
+what is a mammogram?,O O O B-treatment,treatment
+can cialis treat retrograde ejaculation,O B-drug O B-disease I-disease,drug
+does tamiflu contain guaifenesin or a similar ingredient?,O B-drug O B-drug O O O O,drug
+what can i do to take off the wrinkles on my feet?,O O O O O O O O B-disease O O O,treatment
+i have been taking synthroid for at least 10 years now want to get pregnant?,O O O O B-drug O O O O O O O O O B-disease,drug
+will anti-perspirant perspirant cause breast cancer?,O B-drug O O B-disease I-disease,disease
+i had an acute ebv antibody test done and my results were all negative,O O O O B-treatment I-treatment I-treatment O O O O O O O,treatment
+can you get a tattoo when you taking antibiotics,O O O O O O O O B-drug,other
+can a cystic fibrosis child have a normal sweat chloride level?,O O B-disease I-disease O O O O O B-treatment I-treatment,disease
+what effects does exercise have on the immune system?,O O O B-treatment O O O B-disease I-disease,treatment
+will cipro help with sinus infection and respitory,O B-drug O O B-disease I-disease O O,disease
+can i have flu shots when i have asthma?,O O O B-drug I-drug O O O B-disease,drug
+does phillips laxative contain aspirin?,O B-drug I-drug O B-drug,drug
+is lidoderm patch consider a narcotic? will it show up on drug test?,O B-drug I-drug O O O O O O O O B-treatment I-treatment,drug
+i have debilitating shoulder pain acupuncture physio and doctors may have caused permanent damage?,O O O B-disease I-disease I-treatment I-treatment O O O O O O O,disease
+will flexeril show up on a urine drug test?,O B-drug O O O O B-treatment I-treatment I-treatment,drug
+is an ultrasound-guided breast biopsy considered a clean or sterile procedure?,O O B-treatment I-treatment I-treatment O O O O O B-treatment,treatment
+what is erythropoietin to treat anemia?,O O B-drug O O B-disease,drug
+is there a vitamin to help prevent boils?,O O O B-drug O O O B-disease,disease
+what is a duplex ultrasound for erectile dysfunction?,O O O B-treatment I-treatment O B-disease I-disease,treatment
+what is the best application for persons with ichthyosis?,O O O O O O O O B-disease,disease
+what is an ectopic or tubal pregnancy?,O O O B-disease O B-disease I-disease,other
+can taking an antibiotics cause soreness in both upper arms.,O O O B-drug O B-disease O O O O,drug
+is taking a epson salt bath good for treating sciatica,O O O B-treatment I-treatment I-treatment O O O B-disease,disease
+can i use benadryl cream with zyrtec,O O O B-drug I-drug O B-drug,drug
+why do they say to do a pregnancy test in the morning?,O O O O O O O B-treatment I-treatment O O O,other
+is it ok to take a probiotic with antibiotics such as amoxicillan?,O O O O O O B-drug O B-drug O O B-drug,drug
+can you take nascourt and claritin together?,O O O B-drug O B-drug O,drug
+i suffer from familial mediterranean fever (fmf) can i do a rhinoplasty?,O O O B-disease I-disease I-disease O B-disease O O O B-treatment,treatment
+can herbal supplements cause false positive in urine drug screen,O B-drug I-drug O O O O B-treatment I-treatment I-treatment,drug
+can chiropractic manipulation of the neck cause vertigo?,O B-treatment I-treatment O O O O B-disease,treatment
+will being on viagra reduce the chances of my wife getting pregnant?,O O O B-drug O O O O O O O B-disease,drug
+when does benign prostatic hyperplasia bhp start?,O O B-disease I-disease I-disease I-disease O,disease
+can a multivitamin cause acne?,O O B-drug O B-disease,drug
+is ambien a narcotic,O B-drug O O,drug
+does vicks inhaler contain any antihistamine?,O B-drug I-drug O O B-drug,drug
+can amoxicillin oral suspension treat rocky mountain spotted fever?,O B-drug I-drug I-drug O B-disease I-disease I-disease I-disease,drug
+6yr old has constant snuffle like runny nose but nasal passage is dry,O O O O B-disease O B-disease I-disease O O O O O,disease
+can prescribed hydrocortisone valerate be used to clear up poison ivy?,O O B-drug I-drug O O O O O B-disease I-disease,drug
+is creatine safe for a 9 year old child?,O B-drug O O O O O O O,disease
+does carafate interact with tamiflu?,O B-drug O O B-drug,drug
+do doctors give depo depo-provera shots to men who have very bad sexual problems?,O O O O B-drug I-drug O O O O O O B-disease I-disease,drug
+is asthma contagious?,O B-disease O,disease
+is it possible to be pregnant and still have a period?,O O O O O B-disease O O O O O,other
+will quit smoking stress the baby,O O B-disease I-disease O O,disease
+do i require surgery?,O O O B-treatment,treatment
+is soy infant formula safe?,O B-drug I-drug I-drug O,drug
+is beaver safe to eat during pregnancy?,O O O O O O B-disease,other
+what is intercavernous injection therapy for erectile dysfunction?,O O B-treatment I-treatment I-treatment O B-disease I-disease,treatment
+is there any financial help for people who have been injured by vaccines?,O O O O O O O O O O O O B-drug,other
+for what purposes are ultrasounds used?,O O O O B-treatment O,treatment
+"how do you treat ""rebound effect"" from otc nasal spray?",O O O O O O O B-drug I-drug I-drug,treatment
+what happens after an ultrasound?,O O O O B-treatment,treatment
+can infants get strep throat?,O O O B-disease I-disease,disease
+are vaginal yeast infections contagious?,O B-disease I-disease I-disease O,disease
+how effective are the vaccines for hepatitis a and hepatitis b?,O O O O B-drug O B-disease I-disease O B-disease I-disease,treatment
+what type of doctor treats tinnitus? please provide specialty name (ie. oncology),O O O O O B-disease O O O O O O,disease
+can tooth paste work for acne?,O O O O O B-disease,disease
+can aids cure paralysis or leukemia? how?,O B-disease O B-disease O B-disease O,disease
+can anesthesia during surgery cause memory loss or signs of senility?,O B-drug O B-treatment O B-disease I-disease O B-disease I-disease I-disease,treatment
+can black mold cause h. pylori,O B-disease I-disease O B-disease I-disease,disease
+my fourth toe has been amputated is surgery possible to bring the remaining toes together?,O O O O O B-treatment O B-treatment O O O O O O O,treatment
+does using nicotine products decrease cholesterol levels,O O B-drug O O B-treatment I-treatment,treatment
+inserting finger into girls vagina leads to pregnency,O O O O O O O B-disease,other
+is extra virgin olive oil ok to use on dry skin on my face?,O O B-drug I-drug I-drug O O O O B-disease I-disease O O O,disease
+does bad breath have anything to do with ketones,O B-disease I-disease O O O O O B-disease,disease
+can suppressing a sneeze be harmful?,O O O B-disease O O,disease
+can you have sex taking azo drugs,O O O O O B-drug I-drug,drug
+does activated charcoal clean your urine from weed,O B-drug I-drug O O O O O,drug
+i am thinking to have varicocele surgery would it help?,O O O O O B-treatment I-treatment O O O,treatment
+could my saliva cause my wife to get a yeast infection in her vagina?,O O O O O O O O O B-disease I-disease O O O,disease
+what causes pain in big toe joint,O O B-disease O O O O,disease
+food poisoning what causes bleeding with the diarrhea and how long will it last?,O O O O B-disease O O B-disease O O O O O O,disease
+does eucarine cream contain steroids,O B-drug I-drug O B-drug,drug
+can you pass on the flu if you have had the flu shot?,O O O O O B-disease O O O O O B-drug I-drug,drug
+can flash from welding damage the retina?,O O O O B-disease I-disease I-disease,disease
+what is a penile injection?,O O O B-drug I-drug,drug
+i have severe sinus blockages and infection so i am having sinus surgery?,O O O B-disease I-disease O O O O O O B-treatment I-treatment,treatment
+where can i get female condoms?,O O O O B-drug I-drug,drug
+what type of doctor treats genital warts. male,O O O O O B-disease I-disease O,disease
+how early can you start to noticing pregnancy symptoms?,O O O O O O O B-disease O,other
+can asthmatics use a medicated vaporizer for a cold?,O B-disease O O B-treatment I-treatment O O B-disease,treatment
+is erythema multiforme an autoimmune disorder?,O B-disease I-disease O B-disease I-disease,disease
+can i get pregnant from taking folic acid? . just wondering,O O O B-disease O O B-drug I-drug O O O,drug
+should i stay away from swimming pools with yeast infection?,O O O O O O O O B-disease I-disease,disease
+can zantac cause a false positive drug test,O B-drug O O O O B-treatment I-treatment,drug
+what is adenopathy?,O O B-disease,disease
+what is the difference between adderall and ritalin?,O O O O O B-drug O B-drug,drug
+what are triggers for henoch schonlein purpura,O O O O B-disease I-disease I-disease,disease
+is it normal that a ganglion swells after a lice infestation?,O O O O O B-disease I-disease O O B-disease I-disease,disease
+what should i do in case of an overdose of zomig nasal spray?,O O O O O O O O O O B-drug I-drug I-drug,drug
+if im dehydrated can i lose an erection during intercourse?,O O B-disease O O B-disease I-disease I-disease O O,disease
+can a fused finger be reversed or adjusted to regain motion?,O O B-disease I-disease O O O O O O O,disease
+can mri be used to diagnose colon disease?,O B-treatment O O O O B-disease I-disease,treatment
+can i get strep throat while i am taking bactrim for a staph infection?,O O O B-disease I-disease O O O O B-drug O O B-disease I-disease,disease
+can you give bacterial vaginosos to a male sex partner,O O O B-disease I-disease O O O O O,disease
+can a blood test detect vitiligo?,O O B-treatment I-treatment O B-disease,treatment
+can albuterol register a false positive on a drug test?,O B-drug O O O O O O B-treatment I-treatment,drug
+herpes outbreak on my lower back. preferences,B-disease O O O O O O,disease
+how do i treat corns under the finger nail?,O O O O B-disease O O O O,disease
+why see a renal specialists for high blood pressure?,O O O O O O B-disease I-disease I-disease,disease
+can sufameth/trimethoprim show as a benzodiazepine in a drug test?,O B-drug I-drug O O B-drug O O B-treatment I-treatment,drug
+what are the chances of becoming pregnant while using a contraceptive and no condom?,O O O O O O B-disease O O O B-drug O O B-drug,drug
+can infected tonsils break apart and poison your blood stream?,O B-disease I-disease O O O B-disease I-disease I-disease I-disease,disease
+pulmicort flexhaler not covered by medicare advantage plan need cheaper alternative,B-drug I-drug O O O O O O O O O,drug
+can you feel the baby after 5 mouth pregnency,O O O O O O O O B-disease,other
+can you get pink eye from using someone else's computer keyboard or phone?,O O O B-disease I-disease O O O O O O O O,disease
+can sheep's milk yogurt cause acid reflux?,O O O O O B-disease I-disease,disease
+who should receive the flu vaccine? when should someone get the flu shot?,O O O O B-drug I-drug O O O O O B-drug I-drug,drug
+i had a semen analysis need second doctor opinion and more advice?,O O O B-treatment I-treatment O O O O O O O,treatment
+what is an angiotensin ii receptor blocker (arb) for high blood pressure?,O O O B-drug I-drug I-drug I-drug O B-drug I-disease I-disease I-disease,drug
+can both the male and female take metronidazole to cure trich,O O O O O O O B-drug O O B-disease,drug
+will getting the flu shot or a meningitus shot cause ketones?,O O O B-drug I-drug O O B-drug I-drug O B-disease,drug
+cancer soy give you cancercar?,B-disease O O O O,disease
+is it possible to get pregnant from swallowing or anal sex?,O O O O O B-disease O O O O O,other
+"can sulfamethoxazole antibiotic cause a false ""positive"" reading for cocaine urine test",O B-drug I-drug O O O O O O B-treatment I-treatment I-treatment,drug
+can an individual have more than one type of arthritis at a time?,O O O O O O O O O B-disease O O O,disease
+i ibuprofen (800 ml) (800ml) and one aspirin along with 500ml hydrocodone. what will happen?,O B-drug I-drug I-drug O O O B-drug O O B-drug I-drug O O O,drug
+can rupturing a cyst under the skin cause cancer,O B-disease I-disease I-disease O O O O B-disease,disease
+does my dog need a blood test before giving him heartworm meds?,O O O O O B-treatment I-treatment O O O B-drug I-drug,treatment
+can having your scalp massaged affect the health of your hair in any way?,O O O B-treatment I-treatment O O O O O O O O O,treatment
+should i take a probiotic with doxycycline. i just discovered i have lme disease,O O O O B-drug O B-drug O O O O O B-disease I-disease,drug
+how do i take my blood pressure with out a machine?,O O O O O B-treatment I-treatment O O O O,treatment
+can hydrocortisone cream 2. 5% usp be used for scalp psoriasis?,O B-drug I-drug O O O O O O B-disease I-disease,drug
+is there estrogen in vitamin e,O O B-drug O B-drug I-drug,drug
+can i find a medicaid doctor for suboxone,O O O O O O O B-drug,drug
+is it possible to have a yeast infection inside your breast?,O O O O O O B-disease I-disease O O O,disease
+if i scoliosis and i have a baby will my baby be born with scoliosis?,O O B-disease O O O O O O O O O O O O,disease
+i have ms. sometimes i have to have mris or other tests done. . my insurance has always paid the total amount. will such tests be covered under the changes that are coming?,O O B-disease O O O O O B-treatment O O O O O O O O O O O O O O O O O O O O O O O O,treatment
+what is apomorphine used for parkinson's disease?,O O B-drug O O B-disease I-disease,treatment
+how can you slow the aging process?,O O O O O B-disease I-disease,treatment
+is liposuction covered by insurance?,O B-treatment O O O,treatment
+is there a test for genital herpes?,O O O O O B-disease I-disease,disease
+will they still do arthroscopy surgery if you have a cold?,O O O O B-treatment I-treatment O O O O B-disease,treatment
+can i get hearing aids if i'm on medicare?,O O O B-treatment I-treatment O O O O,treatment
+with the aca is there a one year waiting period for coverage for a pre-existing condition?,O O B-disease O O O O O O O O O O O O O,other
+what should average-risk women in their 40s be doing if mammography and self-exams are no longer recommended?,O O O O O O O O O O B-treatment O B-treatment O O O O,treatment
+how can you cool down the main vein in a males testicle that gets too hot and causes infertility?,O O O O O O O O O O O O O O O O O O B-disease,treatment
+how to raise hdl level. my raise hdl level is low (20). i do not smoke never have and exercise on a regular basis. what can i do to raise my hdl levels? .,O O B-treatment I-treatment I-treatment O O B-disease I-disease I-disease I-disease O O O O B-disease O O O B-treatment O O O O O O O O O O O O O O,treatment
+what are the risks of ultrasound?,O O O O O B-treatment,treatment
+do testosterone injections increase your psa level? . i started receiving testosterone injections about 1 1/2 years ago. since that time my psa level has slowly gone up from about 1. 8 to 3. 3.,O B-drug I-drug O O B-disease I-disease O O O O O O O O O O O O O O O O O O O O O O O O O O O O,treatment
+should a oral surgeon remove impacted wisdom teeth if the patient has a sinus infection. what are the risks if they do it?,O O O O O O B-disease I-disease O O O O O B-disease I-disease O O O O O O O O,treatment
+i forgot my bipolar meds at home and i'm on vacation in the us. will i get a 7 day supply from a pharmacist?,O O O B-disease O O O O O O O O O O O O O O O O O O O O,disease
+what is a partial colectomy for colorectal cancer?,O O O O B-treatment O B-disease I-disease,treatment
+it is possible to apply garlic to remove warts? and what is the best way to remove warts? . what is the cause of that?,O O O O O O O B-treatment I-treatment O O O O O O O B-treatment I-treatment O O O O O O O,treatment
+what is the authorizing identifier for obtaining marinol with medicaid insurance,O O O O O O O B-drug O O O,drug
+what is the name of the barium study of the stomach,O O O O O O B-treatment I-treatment O O O,treatment
+how can a complex cyst on the thyroid be diagnosed as benign just by ultra sound? . how can a complex cyst on the tyroid be diagnosed as benign by a ultra sound?,O O O B-disease I-disease I-disease I-disease I-disease O O O B-disease O O B-treatment I-treatment O O O O O O O O O O O O O O O O O,treatment
+are biopsies done during cancer screening colonoscopy for suspected diverticulitis? . family history of colon cancer. i've had polyps removed previously.,O B-treatment O O B-treatment I-treatment I-treatment O B-disease I-disease O O O O B-disease I-disease O O B-disease O O,treatment
+what is an ultrasound as it relates to dentistry?,O O O B-treatment O O O O O,treatment
+what about follow-up care after radiation therapy?,O O B-treatment I-treatment O B-treatment I-treatment,treatment
+i need a pain management clinic in olympia/tacoma area proscribing medication that accepts medicare,O O O B-treatment I-treatment O O O O O O O O O,treatment
+as a teen how much aerobic exercise should i get each day?,O O O O O B-treatment I-treatment O O O O O,treatment
+does cold therapy work for arthritis pain?,O B-treatment I-treatment O O B-disease I-disease,treatment
+what is episodic therapy for genital herpes?,O O B-treatment I-treatment O B-disease I-disease,treatment
+is smoking marijuana before surgery dangerous,O O O O B-treatment O,treatment
+how effective is the seasonal flu vaccination?,O O O O O B-treatment I-treatment,treatment
+how is osteoarthritis treated? what medications can be used?,O O B-disease O O O O O O,disease
+my daughters got their flu shots today. how long does it take until the flu shot is effective?,O O O O B-drug I-drug O O O O O O O O O O O O,drug
+testosterone vs human growth hormone? . which is better testosterone injection therapy or human growth hormone therapy? and why? . can a human growth hormone be prescribed instead of testosterone injection therapy?,B-drug O B-drug I-drug I-drug O O O O B-treatment I-treatment I-treatment O B-treatment I-treatment I-treatment I-treatment O O O O O O O O O O O O O O O,treatment
+how can exercise help with stress?,O O B-treatment O O B-disease,treatment
+how long can an elderly person with 15 of heart function live with extremities turning cold?,O O O O O O O O O O O O O O O B-disease,other
+pulmicort flexhaler not covered by medicare advantage plan need cheaper alternative,B-drug I-drug O O O O O O O O O,drug
+does the affordable care act cover condoms and other contraceptions for men too (or is it just for women)?,O O O O O O B-drug O O B-drug O O O O O O O O O,drug
+back pain exercises,B-disease I-disease I-treatment,treatment
+does a prostatectomy make you infertile? does the procedures sever the tubes from the testes? vas deferens?,O O B-treatment O O B-disease O O B-treatment O O O O O O O O,treatment
+pulmicort flexhaler for asthma maintenance not covered by medicare advantage plan need cheaper alternative,B-drug I-drug O B-disease O O O O O O O O O O,drug
+can acupuncture help dementia,O B-treatment O B-disease,treatment
+do you have to get a shingles shot every year?,O O O O O O B-drug I-drug O O,treatment
+can exercise cure erectile dysfunction?,O B-treatment O B-disease I-disease,treatment
+does prostate massage help prevent prostate cancer?,O B-treatment I-treatment O O B-disease I-disease,treatment
+how many calories does 100 times skipping burn,O O O O O O B-treatment O,treatment
+is there a laser procedure that raises eyebrows?,O O O B-treatment I-treatment O O O,treatment
+what are arbs to treat high blood pressure?,O O B-treatment O O B-disease I-disease I-disease,treatment
+is there a herpes test that determines how long your body has been fighting the virus by determing anti antibody levels?,O O O B-treatment I-treatment O O O O O O O O O O O O O O B-treatment I-treatment,treatment
+how exactly does the birth control pill work? how long does it take to become an effective use of contraception?,O O O O B-drug I-drug I-drug O O O O O O O O O O O O B-drug,drug
+will the affordable care act require an insurance company to cover a dependent's pregnancy?,O O O O O O O O O O O O O B-disease,other
+how can i use duct tape to get rid of warts?,O O O O O O O O O O B-disease,treatment
+what facial exercises can be done to aid recovery from facial paralysis of bell's palsy?,O B-treatment I-treatment O O O O O O O B-disease I-disease I-disease I-disease I-disease,treatment
+is prenatal ultrasound safe?,O O B-treatment O,treatment
+how can i ease symptoms of an inguinal hernia untill surgery?,O O O O O O O B-disease I-disease O B-treatment,treatment
+i still don't understand the procedure of getting health insurance. is there an easier method?,O O O O O O O O O O O O O O O,other
+at what age do children begin to get their adult teeth?,O O O O O O O O O O O,other
+what level of the spine does the sciatic nerve originate?,O O O O O O O O O O,other
+what are some slang terms for condoms?,O O O O O O O,other
+do you charge for your service on webmd?,O O O O O O O O,other
+can the blood be to thick to start a period?,O O O O O O O O O O,other
+if a person never has fluoride what will happen to their teeth?,O O O O O O O O O O O O,other
+"does ""take with meals"" mean before or after eating to take medication?",O O O O O O O O O O O O,other
+is smoking marijuana before surgery dangerous,O O O O O O,other
+how does one go about getting a health insurance plan from the marketplaces?,O O O O O O O O O O O O O,other
+do vegetarians have more or fewer cavities because they don’t eat meat?,O O O O O O O O O O O O,disease
+what happens if you eat fish sticks that arent cooked all the way,O O O O O O O O O O O O O,other
+can seniors over 65 enroll in a marketplace health insurance plan?,O O O O O O O O O O O,other
+can a human get a horse pregnet,O O O O O O O,other
+why do men feel hungry after sex?,O O O O O O O,other
+what does no acute pathology mean,O O O O O O,other
+when you don't eat those your body creates fat?,O O O O O O O O O,other
+is a whirlpool sauna or hot tub covered by medicare?,O O O O O O O O O O,other
+do bi-lingual doctors meet the requirements for language interpreters?,O O O O O O O O O,other
+where can you buy insurance if you live in one state but work in another?,O O O O O O O O O O O O O O O,other
+i need to buy health insurance asap. what do i do? where do i go?,O O O O O O O O O O O O O O O,other
+what is the advantages and disadvantages of a baby girl having o- blood group?,O O O O O O O O O O O O O O,other
+what is a good morning routine for skin care?,O O O O O O O O O,other
+i am fully insured with my wife's company. am i good to go?,O O O O O O O O O O O O O,other
+how does information travel from the brain to the fingers?,O O O O O O O O O O,other
+what are some inherited (genetic) diseases a dermatologist might treat?,O O O O O O O O O O,other
+if you cut you clitoris a lilttle bit does it heal itself,O O O O O O O O O O O O,other
+does testicle size affect amount of ejaculate?,O O O O O O O,other
+are unemployment and social security payments included when calculating annual income for health insurance purposes?,O O O O O O O O O O O O O O O,other
+how can i get rid of the fat pad in my groin area?,O O O O O O O O O O O O O,treatment plan
+is there an enrollment ending date for the new health insurance marketplaces?,O O O O O O O O O O O O,other
+how do i sign up for obamacare?,O O O O O O O,other
+how do i get in touch with a health insurance navigator? i live in florida.,O O O O O O O O O O O O O O O,other
+astrological remedies is it possible to solve the problems?,O O O O O O O O O,disease
+i am on medicaid. does this change wih obomacare,O O O O O O O O O,other
+how do i do a sperm count without ejaculation,O O O O O O O O O,other
+through health care reform can i just insure my kids (not parents)?,O O O O O O O O O O O O,other
+how effective is the female condom at preventing pregnancy?,O O O O O O O O O,other
+is penis size in proportion to height?,O O O O O O O,other
+can you tell me if minnesota has a state health exchange?,O O O O O O O O O O O,other
+can marijuana show up in a test after not smoking for 90 days,O O O O O O O O O O O O O,other
+im not pregnant and i am forming brest milk,O O O O O O O O O,other
+what is the affordable care act all about and how can i get registered?,O O O O O O O O O O O O O O,other
+where is l/4 and l/5 located,O O O O O O,other
+what makes people crave sugar and carbs late at night?,O O O O O O O O O O,other
+are diet pills bad for you?,O O O O O O,drug
+what is yellow snow?,O O O O,other
+can you release air from your bloated belly out your vagina and buthole?,O O O O O O O O O O O O O,other
+is cat nip safe for cats?,O O O O O O,other
+lower half of my body is ice cold. top half hot. what could cause this?,O O O O O O O O O O O O O O O,disease
+how often should i replace my running shoes?,O O O O O O O O,other
+is coconut oil a good sunscreen?,O O O O O O,other
+who can we add as dependents? can we add our parents?,O O O O O O O O O O O,other
+what is the difference between a neurologist and a neurosurgeon,O O O O O O O O O O,other
+will your vagina be loose after your menses?,O O O O O O O O,other
+what good benefits if my wife always eats my sperms?,O O O O O O O O O O,other
+are there any proven across-the-counter drugs to be treated?,O O O O O O O O O,other
+if you can't get an erection are you still able to reach an orgasm?,O O O O O O O O O O O O O O,other
+what are the penalties for denying coverage based on pre-existing conditions?,O O O O O O O O O O O,other
+will the affordable care act require an insurance company to cover a dependent's pregnancy?,O O O O O O O O O O O O O O,other
+is it safe to cook with cast iron pans,O O O O O O O O O,other
+are bananas bad for the heart?,O O O O O O,other
+who are the 3 health insurance companies for illinois?,O O O O O O O O O,other
+do all women get early symptoms of pregnancy?,O O O O O O O O,other
+why doesn't my 11-month-old have teeth yet?,O O O O O O O,other
+how can i find a good orthodontist or oral surgeon for my daughter?,O O O O O O O O O O O O O,other
+are the tax credits for health insurance calculated on gross income or adjusted gross income?,O O O O O O O O O O O O O O O,other
+can the eggs of a 62 year old woman be be used ad doners?,O O O O O O O O O O O O O O,other
+how do i get my questions public,O O O O O O O,other
+can you donate organs if you have a tattoo?,O O O O O O O O O,other
+"what does ""half-life"" mean for a drug?",O O O O O O O,other
+what does the platinum health insurance plan cover?,O O O O O O O O,other
+should i being seeing my dermatologist annually?,O O O O O O O,other
+what can i do to stay satiated longer?,O O O O O O O O,other
+what is nutritionval value of radishes?,O O O O O O,other
+is there a particular website or link to go to for health insurance enrollment?,O O O O O O O O O O O O O O,other
+i am 19 and i haven't seen a regular period should i be worried?,O O O O O O O O O O O O O O,other
+can a child under 18 get birth control with out parents permission,O O O O O O O O O O O O,other
+can a nursing mother drink a beer?,O O O O O O O,other
+do gay bottoms get bigger butts over time due to anal sex?,O O O O O O O O O O O O,other
+does a discounted medical (not insurance) count as having insurance?,O O O O O O O O O O,other
+"what does the term ""resolving mono"" mean?",O O O O O O O,other
+is it safe to have my teeth cleaned during menstruation?,O O O O O O O O O O,other
+do womens sex drives decrease with age while men's stay the same,O O O O O O O O O O O O,other
+is wearing a bra to bed every day bad for your breasts?,O O O O O O O O O O O O,other
+what does it mean for a male to have very watery ejaculation,O O O O O O O O O O O O,other
+can you pass smelly gas and not know it?,O O O O O O O O O,other
+when can i start buying insurance through the marketplace?,O O O O O O O O O,other
+is it safe to eat kale or spinach everyday?,O O O O O O O O O,other
+can use of vibrator during pregnancy affect unborn baby's brain?,O O O O O O O O O O,other
+"what is the age of ""children"" guaranteed dental insurance under the law?",O O O O O O O O O O O O,other
+are lymph nodes and salivary glands the same thing?,O O O O O O O O O,other
+can mixing vodka and crystal light drink mix be dangerous?,O O O O O O O O O O,other
+is milk creme good nutrient for hair growth,O O O O O O O O,other
+what shoud you do when you don't have soap and water to wash your hands?,O O O O O O O O O O O O O O O,other
+what is normal weight range for at 6 year old girl,O O O O O O O O O O O,other
+if you could do only one thing daily for your skin what would that be?,O O O O O O O O O O O O O O O,other
+is the government health insurance website up and running now?,O O O O O O O O O O,other
+can you live without your ears?,O O O O O O,other
+how do i get a paper application form to buy health insurance in the marketplace?,O O O O O O O O O O O O O O O,other
+is it ok to drink sodas while taking/on birth control?,O O O O O O O O O O,other
+what kind of doctor for my coccyx,O O O O O O O,other
+does adding cream to coffee effect the strength of the caffine?,O O O O O O O O O O O,other
+is there a condition that causes the thyroid to be short?,O O O O O O O O O O O,disease
+what makes guys have more body hair then others,O O O O O O O O O,other
+does keeping birth control in your checked luggage on a plane affect its effectivness?,O O O O O O O O O O O O O O,other
+can a foreigner living in singapore purchase any insurance plans from this platform?,O O O O O O O O O O O O O,other
+i have accident only insurance. does this qualify as health insurance under the new law?,O O O O O O O O O O O O O O O,other
+how does a person use the new health insurance exchanges before the age of 65?,O O O O O O O O O O O O O O O,other
+how to remove sexual intercourse?,O O O O O,other
+are oils that the human body naturally produces flammable?,O O O O O O O O O,other
+im breast feeding can i smoke marijuana?,O O O O O O O,other
+what does pc mean after an opthamologist?,O O O O O O O,other
+why would a woman who has just had a baby need more water?,O O O O O O O O O O O O O,other
+will the aca have any change at all for those on medicare? why are our premiums going up so much?,O O O O O O O O O O O O O O O O O O O O,other
+where do i find a drug counseling near myakka city fl 34251. no insurance,O O O O O O O O O O O O O O,other
+i am a 52-year-old woman unemployed and have lived with my parents all my life. i can't afford health insurance. how can i get health insurance?,O O O O O O O O O O O O O O O O O O O O O O O O O O,other
+i had my tubes tied cut and burned can that be reversed. i want to have a baby again but my tubes were tied cut and burned can it be reversed so i can have another baby.,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,treatment plan
+will birth controls be covered by the affordable care act as a preventative if you are still a virgin?,O O O O O O O O O O O O O O O O O O O,treatment plan
+i am fully insured with my wife's company. am i good to go?,O O O O O O O O O O O O O,other
+how can i learn about the types of financial aid available to help pay for health insurance? . i am not insured and do not have income and am 70 years old. i am not eligible for medicare.,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,other
+a recent legal immigrant is 70 years old and has never worked in the u. s. can he apply for obamacare through the marketplace?,O O O O O O O O O O O O O O O O O O O O O O O O,other
+what product must i use to have clear and smooth skin?,O O O O O O O O O O O,other
+i wear a mineral powder makeup foundation that has an spf 15. is this enough coverage for my face?,O O O O O O O O O O O O O O O O O O O,other
+is it ok to use soap on my face when i take a shower or should i be using something else?,O O O O O O O O O O O O O O O O O O O O O,other
+do you recommend razors compared to electric shavers one better than the other?,O O O O O O O O O O O O O,other
+are you restricted from canceling a health insurance policy anytime before jan. 1 because of inability to pay premiums? . can you then still apply for coverage as an uninsured person before jan. 1?,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,other
+how does peppers help to burn fat. i know eating hot peppers will cause thermogenics within the body. does the thermogenics reaction cause your metabolism to speed up or just heat the body?,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,other
+are there any changes to medicare advantage plans hmo versus ppo because of the aca?,O O O O O O O O O O O O O O O,other
+is a whirlpool sauna or hot tub covered by medicare?,O O O O O O O O O O,other
+does the aca have provisions and/or coverage for people on medicare to cover the 20% differential needed?,O O O O O O O O O O O O O O O O O,other

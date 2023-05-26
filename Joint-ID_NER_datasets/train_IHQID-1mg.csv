@@ -1,0 +1,306 @@
+sents,NER_tag,intent
+what is itralase 100 capsule used for?,O O B-drug I-drug I-drug O O,drug
+can the use of jalra-m 50mg/1000 mg tablet lead to vitamin b12 deficiency?,O O O O B-drug I-drug I-drug I-drug O O B-disease I-disease I-disease,drug
+how long will it take to get my thyroid levels under control?,O O O O O O O O B-disease I-disease O O,other
+what are the instructions for storage and disposal of genumet xr cp tablet?,O O O O O O O O O B-drug I-drug I-drug I-drug,drug
+what does a fistula smell like?,O O O B-disease O O,disease
+can dynapar tablet be taken with vitamin b-complex?,O B-drug I-drug O O O B-drug I-drug,drug
+how long does it take for vigora 50mg tablet md to work?,O O O O O O B-drug I-drug I-drug I-drug O O,drug
+how long does it take for power vegra 100mg tablet to work?,O O O O O O B-drug I-drug I-drug I-drug O O,drug
+human ectrapid 40 iu/ml solution for injection need to be refrigerated?,B-drug I-drug I-drug I-drug I-drug I-drug I-drug O O O O,drug
+what should i know about the storage and disposal of neurobion rf fort injection?,O O O O O O O O O O B-drug I-drug I-drug I-drug,drug
+how long does it take before we can see improvement in the symptoms of rickets?,O O O O O O O O O O O O O O B-disease,disease
+should i take cilacar 10 tablet in the morning or at night?,O O O B-drug I-drug I-drug O O O O O O,drug
+can ear infections cause ear pains in adults?,O B-disease I-disease O B-disease I-disease O O,disease
+how does zentel oral suspension work?,O O B-drug I-drug I-drug O,drug
+what blood test should be done to detect dengue?,O B-treatment I-treatment O O O O O B-disease,treatment
+is diabetes insipidus same as diabetes mellitus?,O B-disease I-disease O O B-disease I-disease,disease
+what are the instructions for storage and disposal of monticope tablet?,O O O O O O O O O B-drug I-drug,drug
+my doctor has prescribed inderal 40 tablet even though my blood pressure is within normal limits. is it because of the chest pain that i complained of?,O O O O B-drug I-drug I-drug O O O B-treatment I-treatment O O O O O O O O O B-disease I-disease O O O O,treatment
+is it safe to take alcohol while i am also taking glycomet-gp 1 tablet pr?,O O O O O O O O O O O B-drug I-drug I-drug I-drug,drug
+can i breastfeed while taking reswas syrup?,O O O O O B-drug I-drug,drug
+can i give allegra suspension raspberry and vanilla along with juices?,O O O B-drug I-drug I-drug I-drug I-drug O O O,drug
+how do i come off levera 500 tablet?,O O O O O B-drug I-drug I-drug,drug
+how long does it take for vigor 100 red tablet to work?,O O O O O O B-drug I-drug I-drug I-drug O O,drug
+should tight bandages be applied to stop bleeding from the wound?,O B-treatment I-treatment O O O O B-disease I-disease I-disease I-disease,treatment
+can ecosprin-av 75 capsule affect the liver?,O B-drug I-drug I-drug I-disease I-disease I-disease,drug
+what should i do if i have indigestion?,O O O O O O O B-disease,disease
+are there any foods that can improve memory?,O O O O O O B-treatment I-treatment,treatment
+how long does it take for a fungal skin infections to clear up?,O O O O O O O B-disease I-disease I-disease O O O,disease
+what is the importance of family members getting eye exams?,O O O O O O O O B-treatment I-treatment,treatment
+can i stop taking inderal la 20 tablet sr as my chest pain is under control?,O O O O B-drug I-drug I-drug I-drug I-drug O O B-disease I-disease O O O,drug
+i have been prescribed gabapin 300 capsule for pain. when will i start feeling better?,O O O O B-drug I-drug I-drug O O O O O O O O,drug
+i have been taking triptomer 10mg tablet for depression since a week and recently i have been wanting to harm myself. what should i do? is it because of the medicine?,O O O O B-drug I-drug I-drug O B-disease O O O O O O O O O O O O O O O O O O O O O O,drug
+how do i know if it's dandruff or dry scalp?,O O O O O O B-disease O B-disease I-disease,disease
+why is azee 500 tablet given for 3 days?,O O B-drug I-drug I-drug O O O O,drug
+what are the things which i need to know while taking fabstat 40 tablet?,O O O O O O O O O O O B-drug I-drug I-drug,drug
+which lab tests may my child undergo while taking taxim-o dry syrup delicious pineapple on a long-term basis?,O B-treatment I-treatment O O O O O O B-drug I-drug I-drug I-drug I-drug O O O O,treatment
+what are the different types of breast cancer?,O O O O O O B-disease I-disease,disease
+what if i forget to take a dose of hetrazan 100 tablet?,O O O O O O O O O B-drug I-drug I-drug,drug
+can cepodem 200 tablet cause constipation?,O B-drug I-drug I-drug O O,drug
+will my child survive normally after a stem cell transplantation for blood cancer?,O O O O O O O B-treatment I-treatment I-treatment O B-disease I-disease,treatment
+what is the difference between ear pain and ear infections?,O O O O O B-disease I-disease O B-disease I-disease,disease
+are there any specific contraindications associated with the use of cyclopam tablet?,O O O O O O O O O O B-drug I-drug,drug
+what are the complications of obstetric fistula?,O O O O O B-disease I-disease,disease
+what is estrogen-progesterone therapy?,O O B-treatment I-treatment,treatment
+is just tears eye drop bad?,O B-drug I-drug I-drug I-drug O,drug
+what are the causes of vertigo?,O O O O O B-disease,disease
+is depression an illness or a state of mind?,O B-disease O O O O O O O,disease
+how long does ugesic sublingual tablet work?,O O O B-drug I-drug I-drug O,drug
+why has my doctor asked me to get blood tests done?,O O O O O O O O B-treatment I-treatment O,treatment
+what if i vomit after taking calpol 500mg tablet?,O O O B-disease O O B-drug I-drug I-drug,drug
+what is the pathophysiology of liver cirrhosis?,O O O O O B-disease I-disease,disease
+what is the recommended method of taking jardiens 10mg tablet?,O O O O O O O B-drug I-drug I-drug,drug
+how do you stop a uti when you feel it coming?,O O O O O B-disease O O O O O,treatment
+what is jigest 10mg tablet used for?,O O B-drug I-drug I-drug O O,drug
+can the ecosprin-av 75 capsule cause muscle pain?,O O B-drug I-drug I-drug O B-disease I-disease,drug
+what are the symptoms of high blood sugar?,O O O O O B-disease I-disease I-disease,disease
+can i get hypothyroidism from my hypothyroidism treatments?,O O O B-disease O O B-treatment I-treatment,treatment
+what is the difference between dolonex dt 20mg tablet and tramadol?,O O O O O B-drug I-drug I-drug I-drug O B-drug,drug
+can stress cause urticaria?,O B-disease O B-disease,disease
+how long should laxatives be used for?,O O O B-drug O O O,drug
+what are the instructions for the storage and disposal of neosporin skin ointment?,O O O O O O O O O O B-drug I-drug I-drug,drug
+does exercise help arthritis?,O B-treatment O B-disease,disease
+how long does it take for vigor 50 red tablet to work?,O O O O O O B-drug I-drug I-drug I-drug O O,drug
+what are the side effects of ketoford 2% cream?,O O O O O O B-drug I-drug I-drug,drug
+what does buscopan 20mg injection treat and how does it work?,O O B-drug I-drug I-drug O O O O O O,drug
+what are the warning signs of a stroke?,O O O O O O O B-disease,disease
+is spondylosis curable?,O B-disease O,disease
+will enzar forte tablet be more effective if taken in more than recommended dose?,O B-drug I-drug I-drug O O O O O O O O O O,drug
+i have started using keraglo - ad anti-dandruff shampoo. by when can i expect to start seeing the improvements?,O O O O B-drug I-drug I-drug I-drug I-drug O O O O O O O O O O,other
+what are the serious side effects of famocid 40 tablet?,O O O O O O O B-drug I-drug I-drug,drug
+is tuberculosis deadly?,O B-disease O,disease
+i have been prescribed gabapin 100 tablet for pain. when will i start feeling better?,O O O O B-drug I-drug I-drug O B-disease O O O O O O,drug
+what all tests do my child need to undergo if he has abdominal pain?,O O O O O O O O O O O O B-disease I-disease,treatment
+can i take forxiga 10mg tablet before surgery?,O O O B-drug I-drug I-drug O B-treatment,drug
+is ganatan tablet bad for kidneys?,O B-drug I-drug O O O,drug
+i have been on alprazolam for quite some time. is it okay if i start it-mac 100 capsule now?,O O O O B-drug O O O O O O O O O O B-drug I-drug I-drug O,drug
+is it safe to use bactrim ds tablet?,O O O O O B-drug I-drug I-drug,drug
+can i take iron supplements if i have thalassemia?,O O O B-drug I-drug O O O B-disease,drug
+which is the best way to prevent seizures?,O O O O O O O B-disease,disease
+how serious is fistula surgery?,O O O B-treatment I-treatment,treatment
+when and what is the right choice to take calcium supplements?,O O O O O O O O O B-drug I-drug,drug
+is hyperthyroidism genetic?,O B-disease O,disease
+how long does a dolo 650 tablet take to work?,O O O O B-drug I-drug I-drug O O O,drug
+what is secondary bacterial peritonitis?,O O B-disease I-disease I-disease,disease
+for how long do i need to take it-mac 200 capsule?,O O O O O O O O B-drug I-drug I-drug,drug
+what are pulmonary function tests?,O O B-treatment I-treatment I-treatment,treatment
+how long does it take for prostatitis to clear up?,O O O O O O B-disease O O O,disease
+what are minimally invasive treatments?,O O B-treatment I-treatment I-treatment,treatment
+what should i do if my child shows no improvement even after taking o2 m oral suspension for the prescribed duration?,O O O O O O O O O O O O O B-drug I-drug I-drug I-drug O O O O,drug
+how long does it take to show the signs and symptoms of mumps?,O O O O O O O O O O O O B-disease,disease
+how long does it take for manforce 100mg tablet to work?,O O O O O O B-drug I-drug I-drug O O,drug
+i am taking retino-a 0.025% cream. what should i do if i am planning to become pregnant?,O O O B-drug I-drug I-drug O O O O O O O O O O B-disease,drug
+can i take justoza 10mg tablet before surgery?,O O O B-drug I-drug I-drug O B-treatment,drug
+when does a platelet count recover?,O O O B-treatment I-treatment O,treatment
+what is the storage condition for the serfaz-sn cream?,O O O O O O O B-drug I-drug,drug
+can i take alcohol while on brakke tablet?,O O O O O O B-drug I-drug,drug
+what is spontaneous bacterial peritonitis (sbp)?,O O B-disease I-disease I-disease I-disease,disease
+is sucral suspension available or sold over the counter?,O B-drug I-drug O O O O O O,drug
+can the use of hifenac-mr tablet cause dizziness?,O O O O B-drug I-drug O B-disease,drug
+what are the side effects of feburic 40 tablet?,O O O O O O B-drug I-drug I-drug,drug
+how should betadine 10% solution solution be applied to an injury?,O O B-drug I-drug I-drug O O O O O B-disease,drug
+does josh in 50mg tablet affect sperm?,O B-drug I-drug I-drug I-drug O O,drug
+how quickly does breast cancer grow?,O O O B-disease I-disease O,disease
+can ivoral forte tablet be stopped when my symptoms are gone?,O B-drug I-drug I-drug O O O O O O O,drug
+who should be evaluated for amenorrhea?,O O O O O B-disease,disease
+does body ache always occur with viral fevers?,O B-disease I-disease O O O B-disease I-disease,disease
+do head lice go away on their own?,O B-disease I-disease O O O O O,disease
+how long do herpes sores last?,O O O B-disease I-disease O,disease
+does etizola 0.25 tablet have abuse potential?,O B-drug I-drug I-drug O B-disease I-disease,drug
+how many types of gallstones are there?,O O O O B-disease O O,other
+what is the difference between measles and german measles?,O O O O O B-disease O B-disease I-disease,disease
+how will a dentist or a physician treat xerostomia?,O O O O O O O O B-disease,treatment
+what diet should i take if i have hypothyroidism?,O B-drug O O O O O O B-disease,disease
+what is the prevalence of ascites with liver cirrhosis?,O O O O O B-disease O B-disease I-disease,disease
+will i need to stop ecosprin 150 tablet before surgery or dental procedure?,O O O O O B-drug I-drug I-drug O B-treatment O B-treatment I-treatment,drug
+what are the recommended storage conditions for glycomet-gp 0.5 tablet sr?,O O O O O O O B-drug I-drug I-drug I-drug,drug
+how long does it take to cure a stomach ulcer?,O O O O O O O O B-disease I-disease,disease
+how long does it take to recover from malaria?,O O O O O O O O B-disease,disease
+does massage help relieve joint pain?,O B-treatment O O B-disease I-disease,treatment
+what is the difference between ugesic sublingual tablet and nimesulide?,O O O O O B-drug I-drug I-drug O B-drug,drug
+can dolonex dt 20mg tablet be used in hypertension?,O B-drug I-drug I-drug I-drug O O O B-disease,drug
+what is bilirubin?,O O B-disease,other
+i have been prescribed triptomer 10mg tablet for pain. when will i start feeling better?,O O O O B-drug I-drug I-drug O B-disease O O O O O O,drug
+which food items can increase my chance of developing hypertension?,O O O O O O O O O B-disease,disease
+what are the instructions for storage and disposal of wi-fi plus tablet?,O O O O O O O O O B-drug I-drug I-drug,other
+does domstal 10mg tablet cause heart problems?,O B-drug I-drug I-drug O B-disease I-disease,drug
+what if i forget to take a budesort 0.5 mg respoles 2 ml?,O O O O O O O B-drug I-drug I-drug I-drug I-drug I-drug,drug
+what foods to avoid after a stroke?,O O O O O O B-disease,disease
+what is idrophos 150 tablet what is it used for?,O O B-drug I-drug I-drug O O O O O,drug
+when is the patient of dengue hospitalized?,O O O O O B-disease O,disease
+can a person with syphilis pass it on to their baby?,O O O O B-disease O O O O O O,disease
+how long does it take for razo 20 tablet to work?,O O O O O O B-drug I-drug I-drug O O,drug
+when to go to a doctor for chest pain?,O O O O O O O B-disease I-disease,disease
+what is gardenal 60 tablet used for?,O O B-drug I-drug I-drug O O,drug
+"if your child is lactose intolerant, what are the other food sources for obtaining vitamin d?",O O O O B-disease I-disease O O O O O O O O B-drug I-drug,disease
+who is at maximum risk for q fever?,O O O O O O B-disease I-disease,disease
+what should i do if i skip a dose of it-mac 100 capsule?,O O O O O O O O O O B-drug I-drug I-drug,drug
+how often should i check my blood glucose levels?,O O O O O O B-treatment I-treatment I-treatment,treatment
+am i suffering from dengue or zika?,O O O O B-disease O B-disease,disease
+what should i do if my child shows no improvement even after taking oflox oz suspension for the prescribed duration?,O O O O O O O O O O O O O B-drug I-drug I-drug O O O O,drug
+will i need joint replacement surgery if i have osteoarthritis?,O O O B-treatment I-treatment I-treatment O O O B-disease,treatment
+is pneumonia contagious?,O B-disease O,disease
+can meningitis go away on its own?,O B-disease O O O O O,disease
+can we eat bananas in acidity?,O O O O O B-disease,disease
+how is lasix injection different from torasemide?,O O B-drug I-drug O O B-drug,drug
+is indocap sr capsule an antibiotic or steroid?,O B-drug I-drug I-drug O O O O,drug
+how to overcome morning sickness in pregnancy?,O O O B-disease I-disease O B-disease,disease
+does hyponet-o 15 tablet affect the sugar levels in blood?,O B-drug I-drug I-drug O O B-disease I-disease O O,drug
+which specialist should i take my child to for rickets treatment?,O O O O O O O O O B-disease O,treatment
+how long does it take for pan 40 tablet to work?,O O O O O O B-drug I-drug I-drug O O,drug
+what acidity does to your body?,O B-disease O O O O,disease
+how and in what dose should i take cabgolin 0.5 tablet?,O O O O O O O O B-drug I-drug I-drug,drug
+where do you inject hucog 5000 hp injection?,O O O O B-drug I-drug I-drug I-drug,drug
+for how long should i continue teczine tablet?,O O O O O O B-drug I-drug,drug
+can any type of laxative be used for crohn's disease?,O O O O B-drug O O O B-disease I-disease,disease
+why is q fever called q fever?,O O B-disease I-disease O O O,disease
+what if i forget to take a dose of intral 40 tablet?,O O O O O O O O O B-drug I-drug I-drug,drug
+what is the storage condition for galvus mate 50mg/500 mg tablet?,O O O O O O B-drug I-drug I-drug I-drug I-drug,drug
+can you feel lice crawling?,O O O B-disease O,other
+is ringworm contagious?,O B-disease O,disease
+can the use of gabaneuron nt tablet affect my sexual life?,O O O O B-drug I-drug I-drug O O O O,drug
+what are the instructions for storage and disposal of pantop-d capsule?,O O O O O O O O O B-drug I-drug,drug
+what causes urticaria?,O O B-disease,disease
+my child broke half tooth tooth while playing. what should i do?,O O B-disease I-disease I-disease O O O O O O O,treatment
+what is the most common cause of whooping cough?,O O O O O O O B-disease I-disease,disease
+how long does quadriderm nf cream takes to work?,O O O B-drug I-drug I-drug O O O,drug
+do i need a tetanus injection every time i get injured?,O O O O B-drug I-drug O O O O B-disease,drug
+is typhoid a sexually transmitted disease?,O B-disease O B-disease I-disease I-disease,disease
+for how long should i apply candidate mouth paint can i stop if the symptoms have completely disappeared?,O O O O O O B-drug I-drug I-drug O O O O O O O O O,drug
+can i take antacid and it-mac 100 capsule together?,O O O B-drug O B-drug I-drug I-drug O,drug
+what are the instructions for storage and disposal of montair-lc tablet?,O O O O O O O O O B-drug I-drug,drug
+how long does it take for sugra 100 tablet to work?,O O O O O O B-drug I-drug I-drug O O,drug
+i have been taking eliwel 10mg tablet for depression since a week and recently i have been wanting to harm myself. what should i do? is it because of the medicine?,O O O O B-drug I-drug I-drug O B-disease O O O O O O O O O O O O O O O O O O O O O O,drug
+how long does it take for dytor 5 tablet to show its effects?,O O O O O O B-drug I-drug I-drug O O O O,drug
+what are protective factors for depression?,O O O O O B-disease,disease
+my child has been passing red-brown urine ever since he started taking o2 m oral suspension. is it normal?,O O O O O B-disease I-disease O O O O O B-drug I-drug I-drug I-drug O O O,drug
+for how long do i need to take xtor 10 tablet? is it safe for long-term use?,O O O O O O O O B-drug I-drug I-drug O O O O O O,drug
+is the effect of isotroin 10 capsule permanent?,O O O O B-drug I-drug I-drug O,drug
+can schizophrenia be completely cured?,O B-disease O O O,disease
+can i have dengue if my platelet count is normal ?,O O O B-disease O O B-treatment I-treatment O O O,disease
+what other lifestyle changes should i make?,O O B-treatment I-treatment O O O,other
+what are the instructions for the storage and disposal of clavam 625 tablet?,O O O O O O O O O O B-drug I-drug I-drug,drug
+what increases the risk of pneumonia in kids?,O O O O O B-disease O O,disease
+what is human ectrapid 40/ml solution for injection how is it made?,O O B-drug I-drug I-drug I-drug I-drug I-drug O O O O,drug
+does forxiga 10mg tablet cause weight loss?,O B-drug I-drug I-drug O B-disease I-disease,drug
+can i get my child vaccinated while on treatment with augmentin duo oral suspension?,O O O O O B-treatment O O O O B-drug I-drug I-drug I-drug,drug
+what are the things which i need to know while taking febugate 40 tablet?,O O O O O O O O O O O B-drug I-drug I-drug,drug
+can i take oxra 10mg tablet before surgery?,O O O B-drug I-drug I-drug O B-treatment,drug
+"why does retino-a 0.025% cream cause dry skin, dry lips and dry nose? how to manage these?",O O B-drug I-drug I-drug O B-disease I-disease I-disease I-disease O B-disease I-disease O O O O,drug
+how long does it take for an adult to heal from orchiectomy?,O O O O O O O O O O O B-treatment,treatment
+how long can you live with thrombocytopenia?,O O O O O O B-disease,disease
+can the use of combiflam tablet cause dizziness?,O O O O B-drug I-drug O B-disease,drug
+is heart failure more common in men than women?,O B-disease I-disease O O O O O O,disease
+what happens if a pregnant woman has thalassemia?,O O O O B-disease O O B-disease,disease
+how should just tears eye drop be stored?,O O B-drug I-drug I-drug I-drug O O,drug
+what is epilepsy? what is a seizure?,O O B-disease O O O B-disease,disease
+can people with gallstones exercise?,O O O B-disease I-treatment,disease
+how often should i use keraglo - ad anti-dandruff shampoo?,O O O O O B-drug I-drug I-drug I-drug I-drug,drug
+what are the instructions for storage and disposal of ketofresh ct cream?,O O O O O O O O O B-drug I-drug I-drug,drug
+do i need to stop eliquis 2.5mg tablet before surgery?,O O O O O B-drug I-drug I-drug O B-treatment,drug
+how betnesol injection 1 ml administered?,O B-drug I-drug I-drug I-drug O,drug
+how common is amenorhoea?,O O O B-disease,disease
+can the use of gudcef 200 tablet cause diarrhea?,O O O O B-drug I-drug I-drug O B-disease,drug
+what should i eat for meningitis?,O O O O O B-disease,disease
+do we need to maintain a stock of hcqs 200 tablet?,O O O O O O O O B-drug I-drug I-drug,drug
+can i consume coffee if i have pcos?,O O O O O O O B-disease,disease
+is betnesol tablet safe to use?,O B-drug I-drug O O O,drug
+what if my child takes too much emeset syrup juicy lemon?,O O O O O O O B-drug I-drug I-drug I-drug,drug
+can i feel dizzy after taking arkamin tablet?,O O O B-disease O O B-drug I-drug,drug
+can a person die from epilepsy?,O O O O O B-disease,disease
+"what is the difference between cardiac arrest, heart failure and myocardial infarction?",O O O O O B-disease I-disease I-disease I-disease O B-disease I-disease,disease
+can dolonex dt 20mg tablet be used in the treatment of chikungunya?,O B-drug I-drug I-drug I-drug O O O O O O B-disease,drug
+does shock therapy help with schizophrenia?,O B-treatment I-treatment O O B-disease,treatment
+what is the most frequent peptic ulcer treatment?,O O O O O B-disease I-disease O,treatment
+how does betnovate cream work?,O O B-drug I-drug O,drug
+what should be done if leakage of encicarb injection occurs?,O O O O O O O B-drug I-drug O,drug
+what if i don't get better after using zifi cv 200 tablet?,O O O O O O O O B-drug I-drug I-drug I-drug,drug
+can i take etoshine mr tablet with vitamin b-complex?,O O O B-drug I-drug I-drug O B-drug I-drug,drug
+how long does flutivate cream take to start working?,O O O B-drug I-drug O O O O,drug
+what does typhoid rash look like?,O O B-disease I-disease O O,disease
+how to overcome tiredness associated with anemia?,O O O B-disease O O B-disease,disease
+does coffee help in acidity?,O O O O B-disease,disease
+can treponyma pallidum infect the brain?,O B-disease I-disease I-disease O O,disease
+do all viral common colds result in secondary bacterial infection?,O O B-disease I-disease I-disease O O B-disease I-disease I-disease,disease
+can drinking  more water help in relieving constipation?,O O O O O O O O B-disease,treatment
+what is sleep anxiety?,O O B-disease I-disease,disease
+how long will hifenac-mr tablet take to act?,O O O B-drug I-drug O O O,drug
+can jupiros 10 tablet cause muscle problems or muscle injury?,O B-drug I-drug I-drug O B-disease I-disease O B-disease I-disease,drug
+how can i find a stem cell donor for my child who has blood cancer?,O O O O O B-treatment I-treatment I-treatment O O O O O B-disease I-disease,other
+how long does it take for urticaria to go away?,O O O O O O B-disease O O O,disease
+what do chicken pox look like when they first come out?,O O B-disease I-disease O O O O O O O,disease
+can the use of hifenac-mr tablet cause damage to liver?,O O O O B-drug I-drug O B-disease I-disease I-disease,drug
+can endometriosis go away on its own?,O B-disease O O O O O,disease
+how long does it take for urotone tablet to start working?,O O O O O O B-drug I-drug O O O,drug
+what are the instructions for storage and disposal of seroflo 25 inhaler?,O O O O O O O O O B-drug I-drug I-drug,drug
+how long does it take for duphalak oral solution lemon to work?,O O O O O O B-drug I-drug I-drug I-drug O O,drug
+what happens if typhoid is left untreated?,O O O B-disease O O O,treatment
+is there a vaccine for dengue?,O O O B-treatment O B-disease,treatment
+how do i know if i have asthma?,O O O O O O O B-disease,disease
+"do leprosy patients need to live in separate rooms or houses, isolated from family members?",O B-disease O O O O O O O O O O O O O,drug
+how long does it take for kamagra-fx 100 mg oral jelly cola work?,O O O O O O B-drug I-drug I-drug I-drug I-drug I-drug O,drug
+how to prevent scar formation after a wound?,O O O B-disease O O O B-disease,treatment
+is ciplox eye/ear drops safe?,O B-drug I-drug I-drug O,drug
+passing of gas normal?,B-disease I-disease I-disease O,other
+how to relieve nausea post chemotherapy ?,O O O B-disease O B-treatment O,treatment
+can removal of ovaries cure pcos?,O B-treatment I-treatment I-treatment O B-disease,treatment
+is domstal 10mg tablet used for motion sickness?,O B-drug I-drug I-drug O O B-disease I-disease,drug
+can only a fiber rich diet keep constipation away?,O O O B-treatment I-treatment I-treatment O B-disease O,treatment
+can i stop taking ketofresh ct cream when my symptoms are relieved?,O O O O B-drug I-drug I-drug O O O O O,drug
+what is drotin-m tablet?,O O B-drug I-drug,drug
+can i stop taking brufen 400 tablet when my pain is relieved?,O O O O B-drug I-drug I-drug O O B-disease O O,drug
+which is the best area to inject human mixtard 70/30 suspension for injection 40iu/ml?,O O O O O O O B-drug I-drug I-drug I-drug O O O,drug
+can daily exercise help combat tiredness?,O B-treatment I-treatment O O B-disease,treatment
+can you get syphilis again after treatment?,O O O B-disease O O O,disease
+what is the difference between nausea and vomiting?,O O O O O B-disease O B-disease,drug
+how long does my child need to stay in the sunlight to prevent the development of rickets?,O O O O O O O O O O B-treatment O O O O O B-disease,treatment
+can i consume coffee if i have pcos?,O O O O O O O B-disease,other
+do i need to continue with my regular birth control method?,O O O O O O O O B-treatment I-treatment I-treatment,treatment
+how should just tears eye drop be stored?,O O B-drug I-drug I-drug I-drug O O,drug
+how long does it take to see results with mintop forte 5% solution?,O O O O O O O O O B-drug I-drug I-drug I-drug,treatment
+can human actrapid 40iu/ml solution for injection cause hypoglycemia? how do i prevent it?,O B-drug I-drug I-drug I-drug O O O B-disease O O O O O,drug
+how long does it take nikoran 5 tablet to start working?,O O O O O B-drug I-drug I-drug O O O,drug
+how much sleep is essential to overcome tiredness?,O O B-treatment O O O O B-disease,treatment
+i have been prescribed pregalin 75 capsule for pain due to shingles. when can i expect relief from pain?,O O O O B-drug I-drug I-drug O B-disease I-disease I-disease I-disease O O O O B-treatment I-treatment I-treatment,treatment
+how long does it take for manforce 50mg tablet to work?,O O O O O O B-drug I-drug I-drug O O,drug
+hair growth treatment growth by mintop forte 5% solution treatment permanent?,B-treatment I-treatment I-treatment O O B-drug I-drug I-drug I-drug O O,treatment
+can other medicines be given at the same time as emeset syrup juicy lemon?,O O O O O O O O O O B-drug I-drug I-drug I-drug,other
+how long does an episode of vertigo last?,O O O O O O B-disease O,disease
+how long does it take for rantac syrup mint to start working?,O O O O O O B-drug I-drug I-drug O O O,drug
+what are the instructions for the storage and disposal of brakke tablet?,O O O O O O O O O O B-drug I-drug,drug
+what is the distinction between peptic ulcer and a gastric ulcer?,O O O O O B-disease I-disease O O B-disease I-disease,disease
+can menopause affect my sex life?,O B-disease O O O O,other
+for how long should i continue okacet tablet?,O O O O O O B-drug I-drug,drug
+what's the difference between eczema and psoriasis?,O O O O B-disease O B-disease,disease
+is a living donor better than a deceased donor for a successful kidney transplant?,O O O O O O O O O O O O B-treatment I-treatment,treatment
+i have gained weight since i started taking levipil 500 tablet. is it because of levipil 500 tablet? what should i do?,O O B-disease I-disease O O O O B-drug I-drug I-drug O O O O O O O O O O O,treatment
+how long do migraines last?,O O O B-disease O,disease
+can a person with syphilis pass it on to their baby?,O O O O B-disease O O O O O O,disease
+how to select the correct size of a knee or spine brace?,O O O O O O O O B-treatment I-treatment I-treatment I-treatment,other
+will i pass on leprosy to my family members?,O O O O B-disease O O O O,disease
+how long will lysoflam tablet take to act?,O O O B-drug I-drug O O O,treatment
+can a man pass a uti to a woman?,O O O O O B-disease O O O,other
+how long does a uti last untreated?,O O O O B-disease O O,treatment
+how long does a lasix injection last?,O O O O B-drug I-drug O,treatment
+which is the best area to inject huminsulin 30/70 100iu/ml cartridge 3ml?,O O O O O O B-drug I-drug I-drug I-drug I-drug O,drug
+how would i know if i have high potassium level?,O O O O O O O B-disease I-disease I-disease,disease
+is ipca mmf 500 tablet a steroid or chemotherapy medicine? can it cause hair loss?,O B-drug I-drug I-drug I-drug O B-drug O B-treatment O O O O B-disease I-disease,drug
+when should i visit the doctor for a low platelet count?,O O O O O O O O B-disease I-disease I-disease,disease
+can one live life normally with pcos?,O O O O O O B-disease,other
+how long does it take for famocid 40 tablet to start working?,O O O O O O B-drug I-drug I-drug O O O,drug
+for how long do i need to continue nikoran 5 tablet?,O O O O O O O O B-drug I-drug I-drug,treatment
+do all women experience discomfort after menopause?,O O O O B-disease O B-disease,other
+can i undergo cataract surgery while taking silodal 8 capsule?,O O O B-treatment I-treatment O O B-drug I-drug I-drug,treatment
+is it possible to regrow my hair?,O O O O O O O,other
+when to see a doctor?,O O O O O,other
+how should i store my child’s medicine?,O O O O O O O,other
+what is the 15-15 rule?,O O O O O,other
+in what conditions do i need to call my child’s doctor right away?,O O O O O O O O O O O O O,other
+i am travelling to a country with poor sanitation. what care should i take?,O O O O O O O O O O O O O O,other
+how much does the prostate weigh on average?,O O O O O O O O,other
+how often should i see the doctor ?,O O O O O O O O,other
+are there any special instructions regarding storage and disposal of this medicine?,O O O O O O O O O O O O,other
+what should i tell my doctor before taking this medicine?,O O O O O O O O O O,other
+how often should i see the doctor?,O O O O O O O,other
+how should i store my child’s medicine?,O O O O O O O,other
